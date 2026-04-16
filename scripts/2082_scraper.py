@@ -87,4 +87,4 @@ for party, url in party_urls.items():
 
 final_df = pd.concat(all_dfs, ignore_index=True)
 
-final_df.to_csv("election_2082_results.csv", index=False)
+final_df.to_csv("data/2082/election_2082_results.csv", index=False)

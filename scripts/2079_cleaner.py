@@ -187,10 +187,10 @@ def clean_2079(path):
 # -----------------------------
 if __name__ == "__main__":
 
-    df = clean_2079("election_2079_raw.csv")
+    df = clean_2079("data/2079/election_2079_raw.csv")
 
     print("Rows:", len(df))
     print(df.head())
 
-    df.to_csv("election_2079_clean.csv", index=False)
+    df.to_csv("data/2079/election_2079_clean.csv", index=False)
     print("Saved: election_2079_clean.csv")

@@ -73,5 +73,5 @@ print("Total rows:", len(df))
 print(df.head())
 
 # Save for SQL later
-df.to_csv("election_2079_raw.csv", index=False)
+df.to_csv("data/2079/election_2079_raw.csv", index=False)
 print("Saved to CSV")
