@@ -1,6 +1,7 @@
 import requests
 import json
 import pandas as pd
+import re
 
 
 def fetch_2079_data(page=1, rows=100):
@@ -34,7 +35,7 @@ def parse_json_safe(raw_text):
         pass
 
     # fallback: extract objects manually
-    import re
+
 
     objects = re.findall(r'\{.*?\}', raw_text)
 
@@ -66,8 +67,10 @@ def scrape_all_pages(max_pages=5):
     return pd.DataFrame(all_rows)
 
 
+
 # RUN SCRAPER
 df = scrape_all_pages(max_pages=10)
+
 
 print("Total rows:", len(df))
 print(df.head())

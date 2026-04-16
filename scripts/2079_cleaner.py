@@ -1,39 +1,39 @@
 import pandas as pd
-import re
 
 
 # -----------------------------
 # 1. Load raw dataset
 # -----------------------------
 def load_data(path):
-    df = pd.read_csv(path, encoding="utf-8")
-    return df
+    return pd.read_csv(path, encoding="utf-8")
 
 
 # -----------------------------
 # 2. Keep only needed columns
 # -----------------------------
 def select_columns(df):
-    cols = [
-        "CandidateName",
-        "PoliticalPartyName",
-        "DistrictName",
-        "StateName",
-        "TotalVoteReceived",
-        "Rank",
-        "Remarks",
-        "Age",
-        "Gender"
-    ]
-    return df[cols].copy()
+    return df[
+        [
+            "CandidateName",
+            "PoliticalPartyName",
+            "DistrictName",
+            "StateName",
+            "TotalVoteReceived",
+            "Rank",
+            "Remarks",
+            "Age",
+            "Gender",
+            "SCConstID"   # KEEP THIS
+        ]
+    ].copy()
 
 
 # -----------------------------
-# 3. Clean text fields
+# 3. Clean text
 # -----------------------------
 def clean_text(df):
 
-    text_cols = [
+    cols = [
         "CandidateName",
         "PoliticalPartyName",
         "DistrictName",
@@ -42,7 +42,7 @@ def clean_text(df):
         "Remarks"
     ]
 
-    for col in text_cols:
+    for col in cols:
         df[col] = (
             df[col]
             .astype(str)
@@ -75,11 +75,7 @@ def clean_votes(df):
 # -----------------------------
 def create_winner_flag(df):
 
-    df["is_winner"] = (
-        df["Remarks"]
-        .str.lower()
-        .str.contains("elected", na=False)
-    )
+    df["is_winner"] = df["Remarks"].str.lower().str.contains("elected", na=False)
 
     return df
 
@@ -99,13 +95,24 @@ def standardize_party(df):
         "राष्ट्रिय प्रजातन्त्र पार्टी": "Rastriya Prajatantra Party",
         "राष्ट्रिय स्वतन्त्र पार्टी": "Rastriya Swatantra Party",
         "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च": "Federal Democratic National Forum",
-        "स्वतन्त्र": "Independent",
-        "हाम्रो नेपाली पार्टी": "Hamro Nepali Party",
-        "लोकतान्त्रिक समाजवादी पार्टी, नेपाल": "Loktantrik Samajbadi Party"
+        "स्वतन्त्र": "Independent"
     }
 
     df["PoliticalPartyName"] = df["PoliticalPartyName"].replace(mapping)
 
+    return df
+
+def standardize_province(df):
+    mapping = {
+        "कोशी प्रदेश": "Koshi",
+        "मधेश प्रदेश": "Madhesh",
+        "बागमती प्रदेश": "Bagmati",
+        "गण्डकी प्रदेश": "Gandaki",
+        "लुम्बिनी प्रदेश": "Lumbini",
+        "कर्णाली प्रदेश": "Karnali",
+        "सुदूरपश्चिम प्रदेश": "Sudurpaschim"
+    }
+    df["province"] = df["province"].replace(mapping)
     return df
 
 
@@ -114,7 +121,6 @@ def standardize_party(df):
 # -----------------------------
 def clean_geo(df):
 
-    df["CandidateName"] = df["CandidateName"].str.replace(r"\s+", " ", regex=True)
     df["DistrictName"] = df["DistrictName"].str.replace("-", " ").str.strip()
     df["StateName"] = df["StateName"].str.strip()
 
@@ -122,11 +128,22 @@ def clean_geo(df):
 
 
 # -----------------------------
-# 8. Rename for SQL
+# 8. Handle constituency
+# -----------------------------
+def handle_constituency(df):
+
+    df["SCConstID"] = pd.to_numeric(df["SCConstID"], errors="coerce")
+    df = df.rename(columns={"SCConstID": "constituency"})
+
+    return df
+
+
+# -----------------------------
+# 9. Rename for SQL
 # -----------------------------
 def rename_columns(df):
 
-    df = df.rename(columns={
+    return df.rename(columns={
         "CandidateName": "candidate",
         "PoliticalPartyName": "party",
         "DistrictName": "district",
@@ -137,27 +154,27 @@ def rename_columns(df):
         "Gender": "gender"
     })
 
-    return df
-
 
 # -----------------------------
-# 9. Final cleanup
+# 10. Final cleanup
 # -----------------------------
 def finalize(df):
 
     df = df.drop(columns=["Remarks"])
 
+    df = df.rename(columns={
+        "district": "district_name",
+        "is_winner": "winner"
+    })
+
     df = df[
         [
-            "candidate",
-            "party",
-            "district",
             "province",
+            "district_name",
+            "constituency",
+            "party",
             "votes",
-            "rank",
-            "is_winner",
-            "age",
-            "gender"
+            "winner"
         ]
     ]
 
@@ -176,9 +193,10 @@ def clean_2079(path):
     df = create_winner_flag(df)
     df = standardize_party(df)
     df = clean_geo(df)
+    df = handle_constituency(df)
     df = rename_columns(df)
+    df = standardize_province(df)
     df = finalize(df)
-
     return df
 
 
@@ -188,6 +206,8 @@ def clean_2079(path):
 if __name__ == "__main__":
 
     df = clean_2079("data/2079/election_2079_raw.csv")
+
+    df["election_year"] = 2079
 
     print("Rows:", len(df))
     print(df.head())
