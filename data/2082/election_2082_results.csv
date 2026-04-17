@@ -163,496 +163,879 @@ Sudurpaschim,Gyanendra Singh Mehta,27118,True,Kanchanpur,3,RSP,2082
 Sudurpaschim,Tara Prasad Joshi,19131,True,Dadeldhura,1,RSP,2082
 Sudurpaschim,Hari Mohan Bhandari,22134,True,Baitadi,1,RSP,2082
 Sudurpaschim,Rajesh Singh Samant (Saud),8936,False,Darchula,1,RSP,2082
-Koshi,Gajendra Prasad Tumyang Limbu,11711,False,Taplejung,1,NC,2082
-Koshi,Narendra Kumar Kerung,17233,True,Panchthar,1,NC,2082
-Koshi,Nishkal Rai,14543,True,Illam,1,NC,2082
-Koshi,Bhesraj Acharya,14650,False,Illam,2,NC,2082
-Koshi,Keshav Raj Pandey,10550,False,Jhapa,1,NC,2082
-Koshi,Sarita Prasai,5616,False,Jhapa,2,NC,2082
-Koshi,Rajendra Kumar Ghimire,8199,False,Jhapa,3,NC,2082
-Koshi,Deu Kumar Thewe,9434,False,Jhapa,4,NC,2082
-Koshi,Mandhara Chimariya,1821,False,Jhapa,5,NC,2082
-Koshi,Khadga Bahadur Phago,11986,False,Morang,1,NC,2082
-Koshi,Minendra Prasad Rijal,12764,False,Morang,2,NC,2082
-Koshi,Shunil Kumar Sharma,24354,False,Morang,3,NC,2082
-Koshi,Guru Raj Ghimire,12818,False,Morang,4,NC,2082
-Koshi,Phul Kumar Lalwani,9415,False,Morang,5,NC,2082
-Koshi,Dr. Shekhar Koirala,12850,False,Morang,6,NC,2082
-Koshi,Sujendra Tamang,3970,False,Sunsari,1,NC,2082
-Koshi,Rajib Koirala,16071,False,Sunsari,2,NC,2082
-Koshi,Bijay Kumar Gachhedar,20501,False,Sunsari,3,NC,2082
-Koshi,Gyanendra Bahadur Karki,16587,False,Sunsari,4,NC,2082
-Koshi,Dinesh Rai,14257,False,Dhankuta,1,NC,2082
-Koshi,Dipen Kumar Shrestha,13271,False,Sankhuwasabha,1,NC,2082
-Koshi,Balkrishna Thapa,8670,False,Bhojpur,1,NC,2082
-Koshi,Santosh Subba,11561,True,Terhathum,1,NC,2082
-Koshi,Kumar Luitel,13948,False,Okhaldhunga,1,NC,2082
-Koshi,Bir Kaji Rai,11957,False,Khotang,1,NC,2082
-Koshi,Prakash Singh Karki,13166,True,Solukhumbu,1,NC,2082
-Koshi,Bidur Basnet,9675,False,Udayapur,1,NC,2082
-Koshi,Ram Kumar Rai,7290,False,Udayapur,2,NC,2082
-Madhesh,Ramdev Sah (Teli),6994,False,Saptari,1,NC,2082
-Madhesh,Ram Kumar Yadav,2498,False,Saptari,2,NC,2082
-Madhesh,Dinesh Kumar Yadav,8428,False,Saptari,3,NC,2082
-Madhesh,Teju Lal Chaudhary,13103,False,Saptari,4,NC,2082
-Madhesh,Ram Sundar Chaudhary,9784,False,Siraha,1,NC,2082
-Madhesh,Ram Chandra Yadav,12814,False,Siraha,2,NC,2082
-Madhesh,Subhash Chandra Yadav,9879,False,Siraha,3,NC,2082
-Madhesh,Chandra Kala Kumari Yadav,4038,False,Siraha,4,NC,2082
-Madhesh,Ram Paltan Sah,9485,False,Dhanusha,1,NC,2082
-Madhesh,Dinesh Prasad Yadav Parsaila,10198,False,Dhanusha,2,NC,2082
-Madhesh,Bimalendra Nidhi,16652,False,Dhanusha,3,NC,2082
-Madhesh,Mahendra Yadav,15809,False,Dhanusha,4,NC,2082
-Madhesh,Mukesh Raj Kafle,6213,False,Mahottari,1,NC,2082
-Madhesh,Kiran Yadav,9745,False,Mahottari,2,NC,2082
-Madhesh,Bajrang Nepali,4342,False,Mahottari,3,NC,2082
-Madhesh,Mahendra Kumar Raya,6944,False,Mahottari,4,NC,2082
-Madhesh,Shambhu Lal Shrestha,7871,False,Sarlahi,1,NC,2082
-Madhesh,Dr. Saroj Kumar,7039,False,Sarlahi,2,NC,2082
-Madhesh,Binod Kumar Khanal,6624,False,Sarlahi,3,NC,2082
-Madhesh,Gagan Kumar Thapa,22831,False,Sarlahi,4,NC,2082
-Madhesh,Anil Kumar Jha,8574,False,Rautahat,1,NC,2082
-Madhesh,Md. Firdosh Alam,29528,True,Rautahat,2,NC,2082
-Madhesh,Ramkrishna Prasad Yadav,6420,False,Rautahat,3,NC,2082
-Madhesh,Dev Prasad Timalsena,15865,False,Rautahat,4,NC,2082
-Madhesh,Shambhubahadur Budhathoki,14223,False,Bara,1,NC,2082
-Madhesh,Bhaiyaraprasad Yadav,11837,False,Bara,2,NC,2082
-Madhesh,Pharamullaha Mansur,10052,False,Bara,3,NC,2082
-Madhesh,Shyambabu Gupta,7113,False,Bara,4,NC,2082
-Madhesh,Anil Kumar Rungata,11885,False,Parsa,1,NC,2082
-Madhesh,Ajay Kumar Chaurasiya,11890,False,Parsa,2,NC,2082
-Madhesh,Surendra Prasad Chaudhary,16366,False,Parsa,3,NC,2082
-Madhesh,Ramesh Rijal,12534,False,Parsa,4,NC,2082
-Bagmati,Ujjwal Prasad Baral,15570,False,Sindhuli,1,NC,2082
-Bagmati,Shushila Theeng,6760,False,Sindhuli,2,NC,2082
-Bagmati,Ram Chandra Khadka,16307,False,Ramechhap,1,NC,2082
-Bagmati,Ajay Baby Shivakoti,12298,False,Dolakha,1,NC,2082
-Bagmati,Janga Bahadur Lama,11293,False,Sindhupalchok,1,NC,2082
-Bagmati,Bansalal Tamang,19146,False,Sindhupalchok,2,NC,2082
-Bagmati,Gunraj Tamang,19166,False,Kavrepalanchok,1,NC,2082
-Bagmati,Madhu Prasad Acharya,17868,False,Kavrepalanchok,2,NC,2082
-Bagmati,Uday Shumsher J.B. Rana,13520,False,Lalitpur,1,NC,2082
-Bagmati,Prem Krishna Maharjan,7420,False,Lalitpur,2,NC,2082
-Bagmati,Jitendra Kumar Shrestha,9045,False,Lalitpur,3,NC,2082
-Bagmati,Kiran Neupane,4282,False,Bhaktapur,1,NC,2082
-Bagmati,Kavir Rana,8401,False,Bhaktapur,2,NC,2082
-Bagmati,Prabal Thapa Chhetri,6364,False,Kathmandu,1,NC,2082
-Bagmati,Kabir Sharma,8874,False,Kathmandu,2,NC,2082
-Bagmati,Ramesh Aryal,6000,False,Kathmandu,3,NC,2082
-Bagmati,Sachin Timilsena,8824,False,Kathmandu,4,NC,2082
-Bagmati,Pradeep Paudel,9159,False,Kathmandu,5,NC,2082
-Bagmati,Krishna Baniya Chhetri,6647,False,Kathmandu,6,NC,2082
-Bagmati,Pramod Hari Guragain,3982,False,Kathmandu,7,NC,2082
-Bagmati,Sapana Rajbhandari,2835,False,Kathmandu,8,NC,2082
-Bagmati,Nanu Maiya Bastola,5460,False,Kathmandu,9,NC,2082
-Bagmati,Himal Karki,8100,False,Kathmandu,10,NC,2082
-Bagmati,Prakash Sharan Mahat,18597,False,Nuwakot,1,NC,2082
-Bagmati,Jagadiswor Narsingh KC,15503,False,Nuwakot,2,NC,2082
-Bagmati,Mohan Acharya,10656,True,Rasuwa,1,NC,2082
-Bagmati,Krishna Rijal,10080,False,Dhading,1,NC,2082
-Bagmati,Ramesh Prasad Dhamala,20279,False,Dhading,2,NC,2082
-Bagmati,Mahalaxmi Upadhyay (Dina),14038,False,Makwanpur,1,NC,2082
-Bagmati,Buddha Lama,15056,False,Makwanpur,2,NC,2082
-Bagmati,Rajendra Prasad Burlakoti,13033,False,Chitwan,1,NC,2082
-Bagmati,Meena Kumari Kharel,14564,False,Chitwan,2,NC,2082
-Bagmati,Tek Prasad Gurung,8344,False,Chitwan,3,NC,2082
-Gandaki,Prem Kumar Khatri,15398,False,Gorkha,1,NC,2082
-Gandaki,Prakash Chandra Dawadi,11700,False,Gorkha,2,NC,2082
-Gandaki,Gam Prasad Gurung,16569,False,Lamjung,1,NC,2082
-Gandaki,Govind Bhattarai,16231,False,Tanahun,1,NC,2082
-Gandaki,Shankar Bhandari,14135,False,Tanahun,2,NC,2082
-Gandaki,Bharat Raj Dhakal,18857,False,Syangja,1,NC,2082
-Gandaki,Bhagwat Prakash Malla,20830,False,Syangja,2,NC,2082
-Gandaki,Tilak Bahadur Ranabhat,11214,False,Kaski,1,NC,2082
-Gandaki,Madhav Prasad Bastola,6500,False,Kaski,2,NC,2082
-Gandaki,Manoj Gurung,12780,False,Kaski,3,NC,2082
-Gandaki,Tek Bahadur Gurung,2415,True,Manang,1,NC,2082
-Gandaki,Yogesh Gauchan Thakali,3307,True,Mustang,1,NC,2082
-Gandaki,Arjun Prasad Joshi,15954,False,Parbat,1,NC,2082
-Gandaki,Karna Bahadur Bhandari,6683,False,Myagdi,1,NC,2082
-Gandaki,Bhim Bahadur Shrees Rana,11944,False,Baglung,1,NC,2082
-Gandaki,Tek Raj Paudel,11868,False,Baglung,2,NC,2082
-Gandaki,Bal Krishna Ghimire,16293,False,Nawalparasi East,1,NC,2082
-Gandaki,Om Bahadur Gharti,14713,False,Nawalparasi East,2,NC,2082
-Lumbini,Chandrakant Bhandari,13505,False,Gulmi,1,NC,2082
-Lumbini,Bhuwan Prasad Shrestha,14434,False,Gulmi,2,NC,2082
-Lumbini,Sandip Rana,18336,True,Palpa,1,NC,2082
-Lumbini,Himal Datta Shrestha,12992,False,Palpa,2,NC,2082
-Lumbini,Hira Bahadur Khatri,11982,False,Rupandehi,1,NC,2082
-Lumbini,Chunna Prasad Sharma,9392,False,Rupandehi,2,NC,2082
-Lumbini,Sushil Gurung,8435,False,Rupandehi,3,NC,2082
-Lumbini,Ashutosh Mishra,15613,False,Rupandehi,4,NC,2082
-Lumbini,Bharat Kumar Shah,12624,False,Rupandehi,5,NC,2082
-Lumbini,Bishnu Prasad Khanal,18983,False,Arghakhanchi,1,NC,2082
-Lumbini,Atahar Kamal Musalman,14582,False,Kapilvastu,1,NC,2082
-Lumbini,Surendra Raj Acharya,21527,False,Kapilvastu,2,NC,2082
-Lumbini,Abhishek Pratap Shah,23535,True,Kapilvastu,3,NC,2082
-Lumbini,Dr. Govind Raj Pokharel,18338,False,Pyuthan,1,NC,2082
-Lumbini,Sudan Kumar Oli,12008,False,Rolpa,1,NC,2082
-Lumbini,Yogendra Chaudhary,15280,False,Dang,1,NC,2082
-Lumbini,Kiran Kishor Ghimire,11558,False,Dang,2,NC,2082
-Lumbini,Deepak Giri,16453,False,Dang,3,NC,2082
-Lumbini,Sanjay Kumar Gautam,12722,False,Bardiya,1,NC,2082
-Lumbini,Kishor Singh Rathore,20402,False,Bardiya,2,NC,2082
-Lumbini,Narayan Prasad Goudel,15301,False,Banke,1,NC,2082
-Lumbini,Sudhansu Koirala,17596,False,Banke,2,NC,2082
-Lumbini,Amar Singh Pun,13215,False,Banke,3,NC,2082
-Lumbini,Binod Kumar Chaudhary,9502,False,Nawalparasi West,1,NC,2082
-Lumbini,Bhim Bahadur Thapa Chhetri,15945,False,Nawalparasi West,2,NC,2082
-Lumbini,Kusum Devi Thapa,3081,False,Rukum East,1,NC,2082
-Karnali,Raju KC,16661,False,Rukum West,1,NC,2082
-Karnali,Kesh Bahadur Bista,17558,False,Salyan,1,NC,2082
-Karnali,Bishnu Bahadur Khadka,26897,True,Surkhet,1,NC,2082
-Karnali,Narayan Kumar Koirala,16378,False,Surkhet,2,NC,2082
-Karnali,Basana Thapa,12372,True,Dailekh,1,NC,2082
-Karnali,Dikpal Kumar Shahi,9552,False,Dailekh,2,NC,2082
-Karnali,Khadak Bahadur Budha,20142,True,Jajarkot,1,NC,2082
-Karnali,Karna Bahadur Budha,2947,False,Dolpa,1,NC,2082
-Karnali,Jaya Pati Rokaya,8797,True,Humla,1,NC,2082
-Karnali,Harsh Bahadur Bam,7133,False,Kalikot,1,NC,2082
-Karnali,Khadga Shahi,7914,True,Mugu,1,NC,2082
-Karnali,Dip Bahadur Shahi,7143,False,Jumla,1,NC,2082
-Sudurpaschim,Janak Raj Giri,17173,True,Bajura,1,NC,2082
-Sudurpaschim,Prakash Rasaili Snehi,16304,False,Bajhang,1,NC,2082
-Sudurpaschim,Bharat Kumar Swar,10759,True,Achham,1,NC,2082
-Sudurpaschim,Pushpa Bahadur Shah,9046,False,Achham,2,NC,2082
-Sudurpaschim,Bharat Bahadur Khadka,14897,True,Doti,1,NC,2082
-Sudurpaschim,Jankaraj Chaudhary,12867,False,Kailali,1,NC,2082
-Sudurpaschim,Vijay Bahadur Swar,7213,False,Kailali,2,NC,2082
-Sudurpaschim,Bhim Baduwal,9706,False,Kailali,3,NC,2082
-Sudurpaschim,Gorakh Bahadur Bista,11301,False,Kailali,4,NC,2082
-Sudurpaschim,Nar Narayan Shah,11958,False,Kailali,5,NC,2082
-Sudurpaschim,Gopi Prasad Upadhyaya,8467,False,Kanchanpur,1,NC,2082
-Sudurpaschim,Narayan Prakash Saud,10827,False,Kanchanpur,2,NC,2082
-Sudurpaschim,Hari Prasad Bohara,9443,False,Kanchanpur,3,NC,2082
-Sudurpaschim,Nain Singh Mahar,12121,False,Dadeldhura,1,NC,2082
-Sudurpaschim,Chatur Bahadur Chanda,18194,False,Baitadi,1,NC,2082
-Sudurpaschim,Dharmanand Joshi,15836,False,Darchula,1,NC,2082
-Koshi,Khitiz Thebe,13962,True,Taplejung,1,UML,2082
-Koshi,Aindra Sundar Nembang,14534,False,Panchthar,1,UML,2082
-Koshi,Kaji Man Kagate,11966,False,Illam,1,UML,2082
-Koshi,Suhang Nembang,22426,True,Illam,2,UML,2082
-Koshi,Ramchandra Upreti,7659,False,Jhapa,1,UML,2082
-Koshi,Dev Raj Ghimire,11368,False,Jhapa,2,UML,2082
-Koshi,Hari Bahadur Rajbanshi,7492,False,Jhapa,3,UML,2082
-Koshi,Lal Prasad Sawa Limbu,11986,False,Jhapa,4,UML,2082
-Koshi,KP Sharma Oli,18734,False,Jhapa,5,UML,2082
-Koshi,Ghana Shyam Khatiwada,9823,False,Morang,1,UML,2082
-Koshi,Dilip Kumar Agrawal,15624,False,Morang,2,UML,2082
-Koshi,Iran Kumar Rai,7752,False,Morang,3,UML,2082
-Koshi,Jivan Ghimire,6933,False,Morang,4,UML,2082
-Koshi,Manoj Kumar Agrawal,6945,False,Morang,5,UML,2082
-Koshi,Binod Prasad Dhakal,8317,False,Morang,6,UML,2082
-Koshi,Tika Ram Limbu,6463,False,Sunsari,1,UML,2082
-Koshi,Sujan Lama,8303,False,Sunsari,2,UML,2082
-Koshi,Bhagwati Chaudhary,15083,False,Sunsari,3,UML,2082
-Koshi,Jagdish Prasad Kusiyaith,8631,False,Sunsari,4,UML,2082
-Koshi,Rajendra Kumar Rai,18132,True,Dhankuta,1,UML,2082
-Koshi,Arjun Kumar Karki,15636,True,Sankhuwasabha,1,UML,2082
-Koshi,Sherdhan Rai,14750,False,Bhojpur,1,UML,2082
-Koshi,Bhanu Bhakta Dhakal,10682,False,Terhathum,1,UML,2082
-Koshi,Asmita Thapa,10720,False,Okhaldhunga,1,UML,2082
-Koshi,Dev Bikram Rai,12714,False,Khotang,1,UML,2082
-Koshi,Kalpana Rai,8228,False,Solukhumbu,1,UML,2082
-Koshi,Durga Kumar Thapa,9206,False,Udayapur,1,UML,2082
-Koshi,Ambar Bahadur Raimajhi,7648,False,Udayapur,2,UML,2082
-Madhesh,Suman Raj Pyakurel,7652,False,Saptari,1,UML,2082
-Madhesh,Mohammad Jiaul Rahman,883,False,Saptari,2,UML,2082
-Madhesh,Tarakant Chaudhary,6715,False,Saptari,3,UML,2082
-Madhesh,Ganga Prasad Chaudhary,1177,False,Saptari,4,UML,2082
-Madhesh,Ram Shankar Yadav,7886,False,Siraha,1,UML,2082
-Madhesh,Nabin Kumar Yadav,6713,False,Siraha,2,UML,2082
-Madhesh,Lilanath Shrestha,10156,False,Siraha,3,UML,2082
-Madhesh,Dharmanath Prasad Sah,4227,False,Siraha,4,UML,2082
-Madhesh,Ramchandra Mandal,9220,False,Dhanusha,1,UML,2082
-Madhesh,Umashankar Argariya,10153,False,Dhanusha,2,UML,2082
-Madhesh,Juli Kumari Mahato (Mahaseth),9786,False,Dhanusha,3,UML,2082
-Madhesh,Raghubir Mahaseth,11529,False,Dhanusha,4,UML,2082
-Madhesh,Laxmi Mahato Koir,6591,False,Mahottari,1,UML,2082
-Madhesh,Kasim Nadaf,3524,False,Mahottari,2,UML,2082
-Madhesh,Manoj Kumar Singh,1516,False,Mahottari,3,UML,2082
-Madhesh,Neelam Adhikari,6192,False,Mahottari,4,UML,2082
-Madhesh,Manoj Kumar Devkota,6101,False,Sarlahi,1,UML,2082
-Madhesh,Nageshowr Sah,1413,False,Sarlahi,2,UML,2082
-Madhesh,Hari Prasad Upreti,5776,False,Sarlahi,3,UML,2082
-Madhesh,Amnish Kumar Yadav,9343,False,Sarlahi,4,UML,2082
-Madhesh,Ajay Kumar Gupta,10693,False,Rautahat,1,UML,2082
-Madhesh,Mohammad Atiullah,2382,False,Rautahat,2,UML,2082
-Madhesh,Kundan Prasad Kushwaha,6605,False,Rautahat,3,UML,2082
-Madhesh,Ramji Sah Sonar,3478,False,Rautahat,4,UML,2082
-Madhesh,Achyutprasad Mainali,11645,False,Bara,1,UML,2082
-Madhesh,Balbir Prasad Chaudhari,7213,False,Bara,2,UML,2082
-Madhesh,Jwalakumari Sah,5271,False,Bara,3,UML,2082
-Madhesh,Krishnakumar Shrestha,11639,False,Bara,4,UML,2082
-Madhesh,Pradip Yadav,13030,False,Parsa,1,UML,2082
-Madhesh,Rima Kumari Yadav,11605,False,Parsa,2,UML,2082
-Madhesh,Rupesh Kumar Pandey,11914,False,Parsa,3,UML,2082
-Madhesh,Jalim Miya Mansuri,12145,False,Parsa,4,UML,2082
-Bagmati,Pradip Kumar Katuwal Chhetri (K.C),15859,False,Sindhuli,1,UML,2082
-Bagmati,Manoj Jung Thapa,11606,False,Sindhuli,2,UML,2082
-Bagmati,Madhav Prasad Dhungel,17609,False,Ramechhap,1,UML,2082
-Bagmati,Parbat Gurung,17449,False,Dolakha,1,UML,2082
-Bagmati,Saresh Nepal,11961,False,Sindhupalchok,1,UML,2082
-Bagmati,Sher Bahadur Tamang,15926,False,Sindhupalchok,2,UML,2082
-Bagmati,Ami Tamang,13814,False,Kavrepalanchok,1,UML,2082
-Bagmati,Ashok Kumar Byanju Shrestha,13940,False,Kavrepalanchok,2,UML,2082
-Bagmati,Chet Nath Sanjel,6546,False,Lalitpur,1,UML,2082
-Bagmati,Prem Bahadur Maharjan,4536,False,Lalitpur,2,UML,2082
-Bagmati,Sandan Thapa Magar,3297,False,Lalitpur,3,UML,2082
-Bagmati,Som Prasad Mishra,3721,False,Bhaktapur,1,UML,2082
-Bagmati,Mahesh Basnet,10996,False,Bhaktapur,2,UML,2082
-Bagmati,Mohan Raj Regmi,1618,False,Kathmandu,1,UML,2082
-Bagmati,Maniram Phuyal,4759,False,Kathmandu,2,UML,2082
-Bagmati,Rameshwar Phuyal,3816,False,Kathmandu,3,UML,2082
-Bagmati,Rajan Bhattarai,5733,False,Kathmandu,4,UML,2082
-Bagmati,Ishwar Pokharel,4701,False,Kathmandu,5,UML,2082
-Bagmati,Aman Kumar Maskey,4373,False,Kathmandu,6,UML,2082
-Bagmati,Prakash Shrestha,3544,False,Kathmandu,7,UML,2082
-Bagmati,Rajesh Shakya,1328,False,Kathmandu,8,UML,2082
-Bagmati,Ajay Kranti Shakya,4580,False,Kathmandu,9,UML,2082
-Bagmati,Binod Shrestha,4864,False,Kathmandu,10,UML,2082
-Bagmati,Badri Mainali,8932,False,Nuwakot,1,UML,2082
-Bagmati,Keshav Raj Pandey,8285,False,Nuwakot,2,UML,2082
-Bagmati,Prem Bahadur Tamang,4688,False,Rasuwa,1,UML,2082
-Bagmati,Bhumi Prasad Tripathi,15032,False,Dhading,1,UML,2082
-Bagmati,Dhan Bahadur Ghale,10084,False,Dhading,2,UML,2082
-Bagmati,Rameshwar Rana Magar,12783,False,Makwanpur,1,UML,2082
-Bagmati,Mahesh Kumar Bartaula,18846,False,Makwanpur,2,UML,2082
-Bagmati,Dawa Dorje Lama,10899,False,Chitwan,1,UML,2082
-Bagmati,Ashim Ghimire,6992,False,Chitwan,2,UML,2082
-Bagmati,Shankar Raj Thapaliya,5004,False,Chitwan,3,UML,2082
-Gandaki,Ram Chandra Lamichhane,3732,False,Gorkha,1,UML,2082
-Gandaki,Milan Gurung,3087,False,Gorkha,2,UML,2082
-Gandaki,Prithvi Subba Gurung,16876,False,Lamjung,1,UML,2082
-Gandaki,Bhagwati Neupane,5653,False,Tanahun,1,UML,2082
-Gandaki,Kedar Sigdel,11668,False,Tanahun,2,UML,2082
-Gandaki,Min Prasad Gurung,16804,False,Syangja,1,UML,2082
-Gandaki,Khim Bahadur Thapa,14108,False,Syangja,2,UML,2082
-Gandaki,Bain Bahadur Chhetri (Adhikari),10429,False,Kaski,1,UML,2082
-Gandaki,Rashmi Acharya,7493,False,Kaski,2,UML,2082
-Gandaki,Damodar Paudel Bairagi,7906,False,Kaski,3,UML,2082
-Gandaki,Indra Dhara Dadu Bista,1806,False,Mustang,1,UML,2082
-Gandaki,Padam Giri,15075,False,Parbat,1,UML,2082
-Gandaki,Harikrishna Shrestha,7919,False,Myagdi,1,UML,2082
-Gandaki,Hira Bahadur Khatri,8640,False,Baglung,1,UML,2082
-Gandaki,Manju Sharma,7864,False,Baglung,2,UML,2082
-Gandaki,Bhagirath Sapkota,9131,False,Nawalparasi East,1,UML,2082
-Gandaki,Til Bahadur Mahat Chhetri,15755,False,Nawalparasi East,2,UML,2082
-Lumbini,Pradip Kumar Gyawali,15181,False,Gulmi,1,UML,2082
-Lumbini,Gokarnaraj Bista,16406,False,Gulmi,2,UML,2082
-Lumbini,Narayan Parasad Acharya,16819,False,Palpa,1,UML,2082
-Lumbini,Thakur Prasad Gaire,10503,False,Palpa,2,UML,2082
-Lumbini,Dadhiram Neupane,7488,False,Rupandehi,1,UML,2082
-Lumbini,Bishnu Prasad Paudel,12861,False,Rupandehi,2,UML,2082
-Lumbini,Basu Dev Ghimire,8275,False,Rupandehi,3,UML,2082
-Lumbini,Pramod Kumar Yadav,20262,False,Rupandehi,4,UML,2082
-Lumbini,Khim Lal Bhattarai,13100,False,Rupandehi,5,UML,2082
-Lumbini,Pitambar Bhusal,22649,False,Arghakhanchi,1,UML,2082
-Lumbini,Bishram Prasad Chaudhary,7981,False,Kapilvastu,1,UML,2082
-Lumbini,Drigha Narayan Pandey,7357,False,Kapilvastu,2,UML,2082
-Lumbini,Birendra Kumar Kanodiya,14763,False,Kapilvastu,3,UML,2082
-Lumbini,Surya Bahadur Thapa Chhetri,16710,False,Pyuthan,1,UML,2082
-Lumbini,Gokul Prasad Gharti,9933,False,Rolpa,1,UML,2082
-Lumbini,Rewatiraman Sharma Ghimire,6825,False,Dang,1,UML,2082
-Lumbini,Shankar Pokhrael,15287,False,Dang,2,UML,2082
-Lumbini,Ghanshyam Pandey,12195,False,Dang,3,UML,2082
-Lumbini,Salik Ram Adhikari,14643,False,Bardiya,1,UML,2082
-Lumbini,Bimala B.K.,10772,False,Bardiya,2,UML,2082
-Lumbini,Surya Prasad Dhakal,11095,False,Banke,1,UML,2082
-Lumbini,Mohammad Ishtiyak Rai,24628,True,Banke,2,UML,2082
-Lumbini,Suman Malla,19615,False,Banke,3,UML,2082
-Lumbini,Ram Prasad Pandey,7956,False,Nawalparasi West,1,UML,2082
-Lumbini,Lekhnath Kharel,4311,False,Nawalparasi West,2,UML,2082
-Lumbini,Lilamani Gautam,3462,False,Rukum East,1,UML,2082
-Karnali,Nandaram Devkota,1869,False,Rukum West,1,UML,2082
-Karnali,Gulav Jung Shah,15373,False,Salyan,1,UML,2082
-Karnali,Dhruva Kumar Shahi,18890,False,Surkhet,1,UML,2082
-Karnali,Kulmani Devkota,11511,False,Surkhet,2,UML,2082
-Karnali,Ravindra Raj Sharma,11796,False,Dailekh,1,UML,2082
-Karnali,Laxmi Prasad Pokharel,13889,True,Dailekh,2,UML,2082
-Karnali,Dambar Bahadur Singh,16883,False,Jajarkot,1,UML,2082
-Karnali,Lank Bahadur Rokaya,5396,False,Dolpa,1,UML,2082
-Karnali,Dal Fadera,4331,False,Humla,1,UML,2082
-Karnali,Shree Nagindra Shahi,10352,False,Kalikot,1,UML,2082
-Karnali,Purna Bahadur Rokaya,6718,False,Mugu,1,UML,2082
-Karnali,Shanti Lal Mahat,4518,False,Jumla,1,UML,2082
-Sudurpaschim,Lal Bahadur Thapa,16633,False,Bajura,1,UML,2082
-Sudurpaschim,Ain Bahadur Mahar,18543,True,Bajhang,1,UML,2082
-Sudurpaschim,Deepak Bahadur Saud,7389,False,Achham,1,UML,2082
-Sudurpaschim,Yagya Bahadur Bogati,9518,True,Achham,2,UML,2082
-Sudurpaschim,Deepak Bahadur Dhami,14110,False,Doti,1,UML,2082
-Sudurpaschim,Dharika Prasad Neupane,4493,False,Kailali,1,UML,2082
-Sudurpaschim,Surya Bahadur Thapa,7886,False,Kailali,2,UML,2082
-Sudurpaschim,Gauri Shankar Chaudhary,4752,False,Kailali,3,UML,2082
-Sudurpaschim,Lekh Raj Bhatta,9444,False,Kailali,4,UML,2082
-Sudurpaschim,Yagya Raj Dhungana Upadhyaya,5839,False,Kailali,5,UML,2082
-Sudurpaschim,Tara Lama Tamang,8088,False,Kanchanpur,1,UML,2082
-Sudurpaschim,Bachan Bahadur Singh,6418,False,Kanchanpur,2,UML,2082
-Sudurpaschim,Deepak Prakash Bhatta,7575,False,Kanchanpur,3,UML,2082
-Sudurpaschim,Chakra Prasad Snehi,2926,False,Dadeldhura,1,UML,2082
-Sudurpaschim,Damodar Bhandari,17091,False,Baitadi,1,UML,2082
-Sudurpaschim,Ganesh Singh Thagunna,18891,True,Darchula,1,UML,2082
-Koshi,Khel Prasad Buda Chhetri,6775,False,Taplejung,1,NCP,2082
-Koshi,Hark Bahadur Nembang,11443,False,Panchthar,1,NCP,2082
-Koshi,Ran Bahadur Rai,7665,False,Illam,1,NCP,2082
-Koshi,Om Bahadur Gurung,1172,False,Illam,2,NCP,2082
-Koshi,Ashesh Ghimire,922,False,Jhapa,1,NCP,2082
-Koshi,Dharmashila Chapagai,1115,False,Jhapa,2,NCP,2082
-Koshi,Dilliram Ghimire,1450,False,Jhapa,3,NCP,2082
-Koshi,Purushottam Chudal,1362,False,Jhapa,4,NCP,2082
-Koshi,Ranjit Tamang,1461,False,Jhapa,5,NCP,2082
-Koshi,Kul Prasad Samba,2224,False,Morang,1,NCP,2082
-Koshi,Chandra Bir Rai,1366,False,Morang,2,NCP,2082
-Koshi,Dr Deuman Sambahamphe,1259,False,Morang,3,NCP,2082
-Koshi,Aman Lal Modi,10762,False,Morang,4,NCP,2082
-Koshi,Shiva Kumar Mandal (Kewat),8614,False,Morang,5,NCP,2082
-Koshi,Opendra Kumar Raya,2092,False,Morang,6,NCP,2082
-Koshi,Suryaa Bahadur Bhattarai,6185,False,Sunsari,1,NCP,2082
-Koshi,Ram Kumari Chaudhary,1816,False,Sunsari,2,NCP,2082
-Koshi,Durgesh Kumar Chaudhary,1551,False,Sunsari,3,NCP,2082
-Koshi,Mohammad Mahfuz Ansari,3432,False,Sunsari,4,NCP,2082
-Koshi,Dharma Raj Paudel,1665,False,Dhankuta,1,NCP,2082
-Koshi,Sarita Thapa,2812,False,Sankhuwasabha,1,NCP,2082
-Koshi,Ajambar Rai Kangman,5728,False,Bhojpur,1,NCP,2082
-Koshi,Randhwaj Limbu,919,False,Terhathum,1,NCP,2082
-Koshi,Ambir Babu Gurung,11296,False,Okhaldhunga,1,NCP,2082
-Koshi,Hari Roka,9443,False,Khotang,1,NCP,2082
-Koshi,Ashim Rai,9414,False,Solukhumbu,1,NCP,2082
-Koshi,Bal Dev Chaudhary,10021,False,Udayapur,1,NCP,2082
-Koshi,Suresh Kumar Rai,5197,False,Udayapur,2,NCP,2082
-Madhesh,Rabindra Chaudhary,1626,False,Saptari,1,NCP,2082
-Madhesh,Suryanath Prasad Yadav,426,False,Saptari,2,NCP,2082
-Madhesh,Arun Kumar Sah,1635,False,Saptari,3,NCP,2082
-Madhesh,Rubi Kumari Karn,1709,False,Saptari,4,NCP,2082
-Madhesh,Ramchandra Yadav,2853,False,Siraha,1,NCP,2082
-Madhesh,Mukti Narayan Singh,3680,False,Siraha,2,NCP,2082
-Madhesh,Bishwanath Sah,9942,False,Siraha,3,NCP,2082
-Madhesh,Ajay Shankar Nayak,7972,False,Siraha,4,NCP,2082
-Madhesh,Matrika Prasad Yadav,10428,True,Dhanusha,1,NCP,2082
-Madhesh,Ram Chandra Jha,8403,False,Dhanusha,2,NCP,2082
-Madhesh,Ramlalit Mandal,709,False,Dhanusha,3,NCP,2082
-Madhesh,Sanjay Kumar Mahato,1336,False,Dhanusha,4,NCP,2082
-Madhesh,Giriraj Mani Pokharel,12624,False,Mahottari,1,NCP,2082
-Madhesh,Lakxman Kuar Yadav,737,False,Mahottari,2,NCP,2082
-Madhesh,Raj Kishor Sah Mehattari Sudi,243,False,Mahottari,3,NCP,2082
-Madhesh,Bharat Prasad Shah,5336,False,Mahottari,4,NCP,2082
-Madhesh,Pramod Sah,5498,False,Sarlahi,1,NCP,2082
-Madhesh,Mahindra Raya Yadav,8523,False,Sarlahi,2,NCP,2082
-Madhesh,Naryan Kaji Shrestha,13338,False,Sarlahi,3,NCP,2082
-Madhesh,Rajnish Raya,1259,False,Sarlahi,4,NCP,2082
-Madhesh,Madhav Kumar Nepal,7669,False,Rautahat,1,NCP,2082
-Madhesh,Kiran Kumar Sah,18442,False,Rautahat,2,NCP,2082
-Madhesh,Punam Devi,3881,False,Rautahat,3,NCP,2082
-Madhesh,Ram Kumar Bhattarai,9778,False,Rautahat,4,NCP,2082
-Madhesh,Santosh Dangal,2878,False,Bara,1,NCP,2082
-Madhesh,Rameshprasad Yadav,544,False,Bara,2,NCP,2082
-Madhesh,Bharatprasad Sah,1751,False,Bara,3,NCP,2082
-Madhesh,Ajay Kushwaha,2067,False,Bara,4,NCP,2082
-Madhesh,Ajay Chaurasiya,537,False,Parsa,1,NCP,2082
-Madhesh,Manoj Kumar Chaudhary,913,False,Parsa,2,NCP,2082
-Madhesh,Chotelal Prasad Yadav,2137,False,Parsa,3,NCP,2082
-Madhesh,Jayprakash Tharu,3113,False,Parsa,4,NCP,2082
-Bagmati,Dekendra Prasad Subedi,4708,False,Sindhuli,1,NCP,2082
-Bagmati,Lekh Nath Dahal,14780,False,Sindhuli,2,NCP,2082
-Bagmati,Shyam Kumar Shrestha,13354,False,Ramechhap,1,NCP,2082
-Bagmati,Bishal Khadka,13065,False,Dolakha,1,NCP,2082
-Bagmati,Madhav Sapkota,17327,False,Sindhupalchok,1,NCP,2082
-Bagmati,Yubraj Dulal,21699,True,Sindhupalchok,2,NCP,2082
-Bagmati,Gin Nath Gautam,14184,False,Kavrepalanchok,1,NCP,2082
-Bagmati,Basundhara Humagain,8107,False,Kavrepalanchok,2,NCP,2082
-Bagmati,Sunil Maharjan,1964,False,Lalitpur,1,NCP,2082
-Bagmati,Rajendra Amatya,1217,False,Lalitpur,2,NCP,2082
-Bagmati,Raj Kaji Maharjan,6022,False,Lalitpur,3,NCP,2082
-Bagmati,Hari Ram Lawaju,1177,False,Bhaktapur,1,NCP,2082
-Bagmati,Ram Prasad Sapkota,1323,False,Bhaktapur,2,NCP,2082
-Bagmati,Menuka Bhandari,315,False,Kathmandu,1,NCP,2082
-Bagmati,Nitesh Paudel,1912,False,Kathmandu,2,NCP,2082
-Bagmati,Niraj Lama,518,False,Kathmandu,3,NCP,2082
-Bagmati,Indra Kumar Bhusal,657,False,Kathmandu,4,NCP,2082
-Bagmati,Kalpana Sharma,574,False,Kathmandu,5,NCP,2082
-Bagmati,Hem Lal Sharma,1084,False,Kathmandu,6,NCP,2082
-Bagmati,Basanta Prasad Manandhar,3667,False,Kathmandu,7,NCP,2082
-Bagmati,Suman Shayami,3217,False,Kathmandu,8,NCP,2082
-Bagmati,Radha Krishna Maharjan,1328,False,Kathmandu,9,NCP,2082
-Bagmati,Rupa Maharjan (Shrestha),2648,False,Kathmandu,10,NCP,2082
-Bagmati,Hit Bahadur Tamang,13377,False,Nuwakot,1,NCP,2082
-Bagmati,Hiranath Khatiwada,6720,False,Nuwakot,2,NCP,2082
-Bagmati,Madhav Prasad Lamichhane,953,False,Rasuwa,1,NCP,2082
-Bagmati,Rajendra Prasad Pandey,14709,False,Dhading,1,NCP,2082
-Bagmati,Ram Bahadur Bhandari,9036,False,Dhading,2,NCP,2082
-Bagmati,Bijay Gautam,10788,False,Makwanpur,1,NCP,2082
-Bagmati,labh Sher Bista,12492,False,Makwanpur,2,NCP,2082
-Bagmati,Krishna Raj Panta,4081,False,Chitwan,1,NCP,2082
-Bagmati,Pratap Gurung,4969,False,Chitwan,2,NCP,2082
-Bagmati,Renu Dahal,20615,False,Chitwan,3,NCP,2082
-Gandaki,Hari Raj Adhikari,11124,False,Gorkha,1,NCP,2082
-Gandaki,Lekhnath Neupane,11073,False,Gorkha,2,NCP,2082
-Gandaki,Hari Jung Tamang,3371,False,Lamjung,1,NCP,2082
-Gandaki,Bidya Nath Dhakal,2352,False,Tanahun,1,NCP,2082
-Gandaki,Som Bahadur Thapa,1953,False,Tanahun,2,NCP,2082
-Gandaki,Sailendra Ghimire,1552,False,Syangja,1,NCP,2082
-Gandaki,Padam Bahadur B.K.,848,False,Syangja,2,NCP,2082
-Gandaki,Rajkaji Gurung,2479,False,Kaski,1,NCP,2082
-Gandaki,Hem Bahadur Thapa Parajuli,1276,False,Kaski,2,NCP,2082
-Gandaki,Gopal Giri,1456,False,Kaski,3,NCP,2082
-Gandaki,Yashoda Gurung (Subedi),454,False,Manang,1,NCP,2082
-Gandaki,Ngutuk Gurung,151,False,Mustang,1,NCP,2082
-Gandaki,Manhari Sharma,4557,False,Parbat,1,NCP,2082
-Gandaki,Arjun Bahadur Thapa,3529,False,Myagdi,1,NCP,2082
-Gandaki,Gyanmanath Gaire,10709,False,Baglung,2,NCP,2082
-Gandaki,Lok Prasad Bhurtel,1245,False,Nawalparasi East,1,NCP,2082
-Gandaki,Ganesh Man Mahato,1538,False,Nawalparasi East,2,NCP,2082
-Lumbini,Sudarsan Baral,3167,False,Gulmi,1,NCP,2082
-Lumbini,Shreeram  Mahat,3079,False,Gulmi,2,NCP,2082
-Lumbini,Hum Bahadur Sunari Magar,951,False,Palpa,1,NCP,2082
-Lumbini,Som Prasad Pandeya,5288,False,Palpa,2,NCP,2082
-Lumbini,Ghana Shyam Yadav Ahir,0,False,Rupandehi,1,NCP,2082
-Lumbini,Shubhash Pandey,1409,False,Rupandehi,2,NCP,2082
-Lumbini,Faiz Ahmad Kha,2594,False,Rupandehi,3,NCP,2082
-Lumbini,Babu Lal Yadav,440,False,Rupandehi,4,NCP,2082
-Lumbini,Muhammad Wakil Musalman,6176,False,Rupandehi,5,NCP,2082
-Lumbini,Ram Bahadur Chauhhan,3847,False,Arghakhanchi,1,NCP,2082
-Lumbini,Krishna Bahadur Kunwar,4616,False,Kapilvastu,1,NCP,2082
-Lumbini,Brijesh Kumar Gupta,20482,False,Kapilvastu,2,NCP,2082
-Lumbini,Ehsan Ahmad Khan,3808,False,Kapilvastu,3,NCP,2082
-Lumbini,Krishna Dhwoj Khadka,9074,False,Pyuthan,1,NCP,2082
-Lumbini,Barshman Pun,27460,True,Rolpa,1,NCP,2082
-Lumbini,Metmani Chaudhary,4965,False,Dang,1,NCP,2082
-Lumbini,Nirmal Acharya,7083,False,Dang,2,NCP,2082
-Lumbini,Dhan Bahadur Maski,9328,False,Dang,3,NCP,2082
-Lumbini,Bishnu Prasad Chaudhary,9285,False,Bardiya,1,NCP,2082
-Lumbini,Suresh Pantha,19180,False,Bardiya,2,NCP,2082
-Lumbini,Narendra Prasad Pandey,6020,False,Banke,1,NCP,2082
-Lumbini,Dipendra Bista,1456,False,Banke,2,NCP,2082
-Lumbini,Deepak Kumar Gauri Magar,4015,False,Banke,3,NCP,2082
-Lumbini,Sindhu Jalesa Budhathoki,1056,False,Nawalparasi West,1,NCP,2082
-Lumbini,Devendra Paudel,1838,False,Nawalparasi West,2,NCP,2082
-Lumbini,Pushpa Kamal Dahal,10240,True,Rukum East,1,NCP,2082
-Karnali,Gopal Sharma,21609,True,Rukum West,1,NCP,2082
-Karnali,Ramesh Kumar Malla,23189,True,Salyan,1,NCP,2082
-Karnali,Jit Bahadur Rana,2828,False,Surkhet,1,NCP,2082
-Karnali,Jhak Bahadur Malla,4166,False,Surkhet,2,NCP,2082
-Karnali,Ammar Bahadur Thapa,4256,False,Dailekh,1,NCP,2082
-Karnali,Yogendra Bahadur Shahi,3851,False,Dailekh,2,NCP,2082
-Karnali,Shakti Bahadur Basnet,17407,False,Jajarkot,1,NCP,2082
-Karnali,Dhan Bahadur Budha,6802,True,Dolpa,1,NCP,2082
-Karnali,Dipendra Rokaya,7243,False,Humla,1,NCP,2082
-Karnali,Mahendra Bahadur Shahi,11338,True,Kalikot,1,NCP,2082
-Karnali,Chandra Bahadur Shahi,5558,False,Mugu,1,NCP,2082
-Karnali,Naresh Bhandari,11635,False,Jumla,1,NCP,2082
-Sudurpaschim,Prakash Bahadur Shah,3428,False,Bajura,1,NCP,2082
-Sudurpaschim,Min Bahadur Kunwar,9757,False,Bajhang,1,NCP,2082
-Sudurpaschim,Bhim Bahadur Rawal,10233,False,Achham,1,NCP,2082
-Sudurpaschim,Bal Bahadur Kunwar,6493,False,Achham,2,NCP,2082
-Sudurpaschim,Trilochan Bhatta,5413,False,Doti,1,NCP,2082
-Sudurpaschim,Ramlal Dagaura Tharu,8392,False,Kailali,1,NCP,2082
-Sudurpaschim,Nanda Bahadur Saud,4369,False,Kailali,2,NCP,2082
-Sudurpaschim,Birman Chaudhary,11983,False,Kailali,3,NCP,2082
-Sudurpaschim,Hari Ram Chaudhary,5609,False,Kailali,4,NCP,2082
-Sudurpaschim,Prem Bahadur Ale,7876,False,Kailali,5,NCP,2082
-Sudurpaschim,Bina Magar,11110,False,Kanchanpur,1,NCP,2082
-Sudurpaschim,Madhav Prasad Panta,6337,False,Kanchanpur,2,NCP,2082
-Sudurpaschim,Man Bahadur Sunar,4284,False,Kanchanpur,3,NCP,2082
-Sudurpaschim,Man Singh Mal,6834,False,Dadeldhura,1,NCP,2082
-Sudurpaschim,Pramanand Bhatta,6965,False,Baitadi,1,NCP,2082
-Sudurpaschim,Lakshman Datt Joshi,3065,False,Darchula,1,NCP,2082
+Koshi,Gajendra Prasad Tumyang Limbu,11711,False,Taplejung,1,Nepali Congress,2082
+Koshi,Narendra Kumar Kerung,17233,True,Panchthar,1,Nepali Congress,2082
+Koshi,Nishkal Rai,14543,True,Illam,1,Nepali Congress,2082
+Koshi,Bhesraj Acharya,14650,False,Illam,2,Nepali Congress,2082
+Koshi,Keshav Raj Pandey,10550,False,Jhapa,1,Nepali Congress,2082
+Koshi,Sarita Prasai,5616,False,Jhapa,2,Nepali Congress,2082
+Koshi,Rajendra Kumar Ghimire,8199,False,Jhapa,3,Nepali Congress,2082
+Koshi,Deu Kumar Thewe,9434,False,Jhapa,4,Nepali Congress,2082
+Koshi,Mandhara Chimariya,1821,False,Jhapa,5,Nepali Congress,2082
+Koshi,Khadga Bahadur Phago,11986,False,Morang,1,Nepali Congress,2082
+Koshi,Minendra Prasad Rijal,12764,False,Morang,2,Nepali Congress,2082
+Koshi,Shunil Kumar Sharma,24354,False,Morang,3,Nepali Congress,2082
+Koshi,Guru Raj Ghimire,12818,False,Morang,4,Nepali Congress,2082
+Koshi,Phul Kumar Lalwani,9415,False,Morang,5,Nepali Congress,2082
+Koshi,Dr. Shekhar Koirala,12850,False,Morang,6,Nepali Congress,2082
+Koshi,Sujendra Tamang,3970,False,Sunsari,1,Nepali Congress,2082
+Koshi,Rajib Koirala,16071,False,Sunsari,2,Nepali Congress,2082
+Koshi,Bijay Kumar Gachhedar,20501,False,Sunsari,3,Nepali Congress,2082
+Koshi,Gyanendra Bahadur Karki,16587,False,Sunsari,4,Nepali Congress,2082
+Koshi,Dinesh Rai,14257,False,Dhankuta,1,Nepali Congress,2082
+Koshi,Dipen Kumar Shrestha,13271,False,Sankhuwasabha,1,Nepali Congress,2082
+Koshi,Balkrishna Thapa,8670,False,Bhojpur,1,Nepali Congress,2082
+Koshi,Santosh Subba,11561,True,Terhathum,1,Nepali Congress,2082
+Koshi,Kumar Luitel,13948,False,Okhaldhunga,1,Nepali Congress,2082
+Koshi,Bir Kaji Rai,11957,False,Khotang,1,Nepali Congress,2082
+Koshi,Prakash Singh Karki,13166,True,Solukhumbu,1,Nepali Congress,2082
+Koshi,Bidur Basnet,9675,False,Udayapur,1,Nepali Congress,2082
+Koshi,Ram Kumar Rai,7290,False,Udayapur,2,Nepali Congress,2082
+Madhesh,Ramdev Sah (Teli),6994,False,Saptari,1,Nepali Congress,2082
+Madhesh,Ram Kumar Yadav,2498,False,Saptari,2,Nepali Congress,2082
+Madhesh,Dinesh Kumar Yadav,8428,False,Saptari,3,Nepali Congress,2082
+Madhesh,Teju Lal Chaudhary,13103,False,Saptari,4,Nepali Congress,2082
+Madhesh,Ram Sundar Chaudhary,9784,False,Siraha,1,Nepali Congress,2082
+Madhesh,Ram Chandra Yadav,12814,False,Siraha,2,Nepali Congress,2082
+Madhesh,Subhash Chandra Yadav,9879,False,Siraha,3,Nepali Congress,2082
+Madhesh,Chandra Kala Kumari Yadav,4038,False,Siraha,4,Nepali Congress,2082
+Madhesh,Ram Paltan Sah,9485,False,Dhanusha,1,Nepali Congress,2082
+Madhesh,Dinesh Prasad Yadav Parsaila,10198,False,Dhanusha,2,Nepali Congress,2082
+Madhesh,Bimalendra Nidhi,16652,False,Dhanusha,3,Nepali Congress,2082
+Madhesh,Mahendra Yadav,15809,False,Dhanusha,4,Nepali Congress,2082
+Madhesh,Mukesh Raj Kafle,6213,False,Mahottari,1,Nepali Congress,2082
+Madhesh,Kiran Yadav,9745,False,Mahottari,2,Nepali Congress,2082
+Madhesh,Bajrang Nepali,4342,False,Mahottari,3,Nepali Congress,2082
+Madhesh,Mahendra Kumar Raya,6944,False,Mahottari,4,Nepali Congress,2082
+Madhesh,Shambhu Lal Shrestha,7871,False,Sarlahi,1,Nepali Congress,2082
+Madhesh,Dr. Saroj Kumar,7039,False,Sarlahi,2,Nepali Congress,2082
+Madhesh,Binod Kumar Khanal,6624,False,Sarlahi,3,Nepali Congress,2082
+Madhesh,Gagan Kumar Thapa,22831,False,Sarlahi,4,Nepali Congress,2082
+Madhesh,Anil Kumar Jha,8574,False,Rautahat,1,Nepali Congress,2082
+Madhesh,Md. Firdosh Alam,29528,True,Rautahat,2,Nepali Congress,2082
+Madhesh,Ramkrishna Prasad Yadav,6420,False,Rautahat,3,Nepali Congress,2082
+Madhesh,Dev Prasad Timalsena,15865,False,Rautahat,4,Nepali Congress,2082
+Madhesh,Shambhubahadur Budhathoki,14223,False,Bara,1,Nepali Congress,2082
+Madhesh,Bhaiyaraprasad Yadav,11837,False,Bara,2,Nepali Congress,2082
+Madhesh,Pharamullaha Mansur,10052,False,Bara,3,Nepali Congress,2082
+Madhesh,Shyambabu Gupta,7113,False,Bara,4,Nepali Congress,2082
+Madhesh,Anil Kumar Rungata,11885,False,Parsa,1,Nepali Congress,2082
+Madhesh,Ajay Kumar Chaurasiya,11890,False,Parsa,2,Nepali Congress,2082
+Madhesh,Surendra Prasad Chaudhary,16366,False,Parsa,3,Nepali Congress,2082
+Madhesh,Ramesh Rijal,12534,False,Parsa,4,Nepali Congress,2082
+Bagmati,Ujjwal Prasad Baral,15570,False,Sindhuli,1,Nepali Congress,2082
+Bagmati,Shushila Theeng,6760,False,Sindhuli,2,Nepali Congress,2082
+Bagmati,Ram Chandra Khadka,16307,False,Ramechhap,1,Nepali Congress,2082
+Bagmati,Ajay Baby Shivakoti,12298,False,Dolakha,1,Nepali Congress,2082
+Bagmati,Janga Bahadur Lama,11293,False,Sindhupalchok,1,Nepali Congress,2082
+Bagmati,Bansalal Tamang,19146,False,Sindhupalchok,2,Nepali Congress,2082
+Bagmati,Gunraj Tamang,19166,False,Kavrepalanchok,1,Nepali Congress,2082
+Bagmati,Madhu Prasad Acharya,17868,False,Kavrepalanchok,2,Nepali Congress,2082
+Bagmati,Uday Shumsher J.B. Rana,13520,False,Lalitpur,1,Nepali Congress,2082
+Bagmati,Prem Krishna Maharjan,7420,False,Lalitpur,2,Nepali Congress,2082
+Bagmati,Jitendra Kumar Shrestha,9045,False,Lalitpur,3,Nepali Congress,2082
+Bagmati,Kiran Neupane,4282,False,Bhaktapur,1,Nepali Congress,2082
+Bagmati,Kavir Rana,8401,False,Bhaktapur,2,Nepali Congress,2082
+Bagmati,Prabal Thapa Chhetri,6364,False,Kathmandu,1,Nepali Congress,2082
+Bagmati,Kabir Sharma,8874,False,Kathmandu,2,Nepali Congress,2082
+Bagmati,Ramesh Aryal,6000,False,Kathmandu,3,Nepali Congress,2082
+Bagmati,Sachin Timilsena,8824,False,Kathmandu,4,Nepali Congress,2082
+Bagmati,Pradeep Paudel,9159,False,Kathmandu,5,Nepali Congress,2082
+Bagmati,Krishna Baniya Chhetri,6647,False,Kathmandu,6,Nepali Congress,2082
+Bagmati,Pramod Hari Guragain,3982,False,Kathmandu,7,Nepali Congress,2082
+Bagmati,Sapana Rajbhandari,2835,False,Kathmandu,8,Nepali Congress,2082
+Bagmati,Nanu Maiya Bastola,5460,False,Kathmandu,9,Nepali Congress,2082
+Bagmati,Himal Karki,8100,False,Kathmandu,10,Nepali Congress,2082
+Bagmati,Prakash Sharan Mahat,18597,False,Nuwakot,1,Nepali Congress,2082
+Bagmati,Jagadiswor Narsingh KC,15503,False,Nuwakot,2,Nepali Congress,2082
+Bagmati,Mohan Acharya,10656,True,Rasuwa,1,Nepali Congress,2082
+Bagmati,Krishna Rijal,10080,False,Dhading,1,Nepali Congress,2082
+Bagmati,Ramesh Prasad Dhamala,20279,False,Dhading,2,Nepali Congress,2082
+Bagmati,Mahalaxmi Upadhyay (Dina),14038,False,Makwanpur,1,Nepali Congress,2082
+Bagmati,Buddha Lama,15056,False,Makwanpur,2,Nepali Congress,2082
+Bagmati,Rajendra Prasad Burlakoti,13033,False,Chitwan,1,Nepali Congress,2082
+Bagmati,Meena Kumari Kharel,14564,False,Chitwan,2,Nepali Congress,2082
+Bagmati,Tek Prasad Gurung,8344,False,Chitwan,3,Nepali Congress,2082
+Gandaki,Prem Kumar Khatri,15398,False,Gorkha,1,Nepali Congress,2082
+Gandaki,Prakash Chandra Dawadi,11700,False,Gorkha,2,Nepali Congress,2082
+Gandaki,Gam Prasad Gurung,16569,False,Lamjung,1,Nepali Congress,2082
+Gandaki,Govind Bhattarai,16231,False,Tanahun,1,Nepali Congress,2082
+Gandaki,Shankar Bhandari,14135,False,Tanahun,2,Nepali Congress,2082
+Gandaki,Bharat Raj Dhakal,18857,False,Syangja,1,Nepali Congress,2082
+Gandaki,Bhagwat Prakash Malla,20830,False,Syangja,2,Nepali Congress,2082
+Gandaki,Tilak Bahadur Ranabhat,11214,False,Kaski,1,Nepali Congress,2082
+Gandaki,Madhav Prasad Bastola,6500,False,Kaski,2,Nepali Congress,2082
+Gandaki,Manoj Gurung,12780,False,Kaski,3,Nepali Congress,2082
+Gandaki,Tek Bahadur Gurung,2415,True,Manang,1,Nepali Congress,2082
+Gandaki,Yogesh Gauchan Thakali,3307,True,Mustang,1,Nepali Congress,2082
+Gandaki,Arjun Prasad Joshi,15954,False,Parbat,1,Nepali Congress,2082
+Gandaki,Karna Bahadur Bhandari,6683,False,Myagdi,1,Nepali Congress,2082
+Gandaki,Bhim Bahadur Shrees Rana,11944,False,Baglung,1,Nepali Congress,2082
+Gandaki,Tek Raj Paudel,11868,False,Baglung,2,Nepali Congress,2082
+Gandaki,Bal Krishna Ghimire,16293,False,Nawalparasi East,1,Nepali Congress,2082
+Gandaki,Om Bahadur Gharti,14713,False,Nawalparasi East,2,Nepali Congress,2082
+Lumbini,Chandrakant Bhandari,13505,False,Gulmi,1,Nepali Congress,2082
+Lumbini,Bhuwan Prasad Shrestha,14434,False,Gulmi,2,Nepali Congress,2082
+Lumbini,Sandip Rana,18336,True,Palpa,1,Nepali Congress,2082
+Lumbini,Himal Datta Shrestha,12992,False,Palpa,2,Nepali Congress,2082
+Lumbini,Hira Bahadur Khatri,11982,False,Rupandehi,1,Nepali Congress,2082
+Lumbini,Chunna Prasad Sharma,9392,False,Rupandehi,2,Nepali Congress,2082
+Lumbini,Sushil Gurung,8435,False,Rupandehi,3,Nepali Congress,2082
+Lumbini,Ashutosh Mishra,15613,False,Rupandehi,4,Nepali Congress,2082
+Lumbini,Bharat Kumar Shah,12624,False,Rupandehi,5,Nepali Congress,2082
+Lumbini,Bishnu Prasad Khanal,18983,False,Arghakhanchi,1,Nepali Congress,2082
+Lumbini,Atahar Kamal Musalman,14582,False,Kapilvastu,1,Nepali Congress,2082
+Lumbini,Surendra Raj Acharya,21527,False,Kapilvastu,2,Nepali Congress,2082
+Lumbini,Abhishek Pratap Shah,23535,True,Kapilvastu,3,Nepali Congress,2082
+Lumbini,Dr. Govind Raj Pokharel,18338,False,Pyuthan,1,Nepali Congress,2082
+Lumbini,Sudan Kumar Oli,12008,False,Rolpa,1,Nepali Congress,2082
+Lumbini,Yogendra Chaudhary,15280,False,Dang,1,Nepali Congress,2082
+Lumbini,Kiran Kishor Ghimire,11558,False,Dang,2,Nepali Congress,2082
+Lumbini,Deepak Giri,16453,False,Dang,3,Nepali Congress,2082
+Lumbini,Sanjay Kumar Gautam,12722,False,Bardiya,1,Nepali Congress,2082
+Lumbini,Kishor Singh Rathore,20402,False,Bardiya,2,Nepali Congress,2082
+Lumbini,Narayan Prasad Goudel,15301,False,Banke,1,Nepali Congress,2082
+Lumbini,Sudhansu Koirala,17596,False,Banke,2,Nepali Congress,2082
+Lumbini,Amar Singh Pun,13215,False,Banke,3,Nepali Congress,2082
+Lumbini,Binod Kumar Chaudhary,9502,False,Nawalparasi West,1,Nepali Congress,2082
+Lumbini,Bhim Bahadur Thapa Chhetri,15945,False,Nawalparasi West,2,Nepali Congress,2082
+Lumbini,Kusum Devi Thapa,3081,False,Rukum East,1,Nepali Congress,2082
+Karnali,Raju KC,16661,False,Rukum West,1,Nepali Congress,2082
+Karnali,Kesh Bahadur Bista,17558,False,Salyan,1,Nepali Congress,2082
+Karnali,Bishnu Bahadur Khadka,26897,True,Surkhet,1,Nepali Congress,2082
+Karnali,Narayan Kumar Koirala,16378,False,Surkhet,2,Nepali Congress,2082
+Karnali,Basana Thapa,12372,True,Dailekh,1,Nepali Congress,2082
+Karnali,Dikpal Kumar Shahi,9552,False,Dailekh,2,Nepali Congress,2082
+Karnali,Khadak Bahadur Budha,20142,True,Jajarkot,1,Nepali Congress,2082
+Karnali,Karna Bahadur Budha,2947,False,Dolpa,1,Nepali Congress,2082
+Karnali,Jaya Pati Rokaya,8797,True,Humla,1,Nepali Congress,2082
+Karnali,Harsh Bahadur Bam,7133,False,Kalikot,1,Nepali Congress,2082
+Karnali,Khadga Shahi,7914,True,Mugu,1,Nepali Congress,2082
+Karnali,Dip Bahadur Shahi,7143,False,Jumla,1,Nepali Congress,2082
+Sudurpaschim,Janak Raj Giri,17173,True,Bajura,1,Nepali Congress,2082
+Sudurpaschim,Prakash Rasaili Snehi,16304,False,Bajhang,1,Nepali Congress,2082
+Sudurpaschim,Bharat Kumar Swar,10759,True,Achham,1,Nepali Congress,2082
+Sudurpaschim,Pushpa Bahadur Shah,9046,False,Achham,2,Nepali Congress,2082
+Sudurpaschim,Bharat Bahadur Khadka,14897,True,Doti,1,Nepali Congress,2082
+Sudurpaschim,Jankaraj Chaudhary,12867,False,Kailali,1,Nepali Congress,2082
+Sudurpaschim,Vijay Bahadur Swar,7213,False,Kailali,2,Nepali Congress,2082
+Sudurpaschim,Bhim Baduwal,9706,False,Kailali,3,Nepali Congress,2082
+Sudurpaschim,Gorakh Bahadur Bista,11301,False,Kailali,4,Nepali Congress,2082
+Sudurpaschim,Nar Narayan Shah,11958,False,Kailali,5,Nepali Congress,2082
+Sudurpaschim,Gopi Prasad Upadhyaya,8467,False,Kanchanpur,1,Nepali Congress,2082
+Sudurpaschim,Narayan Prakash Saud,10827,False,Kanchanpur,2,Nepali Congress,2082
+Sudurpaschim,Hari Prasad Bohara,9443,False,Kanchanpur,3,Nepali Congress,2082
+Sudurpaschim,Nain Singh Mahar,12121,False,Dadeldhura,1,Nepali Congress,2082
+Sudurpaschim,Chatur Bahadur Chanda,18194,False,Baitadi,1,Nepali Congress,2082
+Sudurpaschim,Dharmanand Joshi,15836,False,Darchula,1,Nepali Congress,2082
+Koshi,Khitiz Thebe,13962,True,Taplejung,1,CPN-UML,2082
+Koshi,Aindra Sundar Nembang,14534,False,Panchthar,1,CPN-UML,2082
+Koshi,Kaji Man Kagate,11966,False,Illam,1,CPN-UML,2082
+Koshi,Suhang Nembang,22426,True,Illam,2,CPN-UML,2082
+Koshi,Ramchandra Upreti,7659,False,Jhapa,1,CPN-UML,2082
+Koshi,Dev Raj Ghimire,11368,False,Jhapa,2,CPN-UML,2082
+Koshi,Hari Bahadur Rajbanshi,7492,False,Jhapa,3,CPN-UML,2082
+Koshi,Lal Prasad Sawa Limbu,11986,False,Jhapa,4,CPN-UML,2082
+Koshi,KP Sharma Oli,18734,False,Jhapa,5,CPN-UML,2082
+Koshi,Ghana Shyam Khatiwada,9823,False,Morang,1,CPN-UML,2082
+Koshi,Dilip Kumar Agrawal,15624,False,Morang,2,CPN-UML,2082
+Koshi,Iran Kumar Rai,7752,False,Morang,3,CPN-UML,2082
+Koshi,Jivan Ghimire,6933,False,Morang,4,CPN-UML,2082
+Koshi,Manoj Kumar Agrawal,6945,False,Morang,5,CPN-UML,2082
+Koshi,Binod Prasad Dhakal,8317,False,Morang,6,CPN-UML,2082
+Koshi,Tika Ram Limbu,6463,False,Sunsari,1,CPN-UML,2082
+Koshi,Sujan Lama,8303,False,Sunsari,2,CPN-UML,2082
+Koshi,Bhagwati Chaudhary,15083,False,Sunsari,3,CPN-UML,2082
+Koshi,Jagdish Prasad Kusiyaith,8631,False,Sunsari,4,CPN-UML,2082
+Koshi,Rajendra Kumar Rai,18132,True,Dhankuta,1,CPN-UML,2082
+Koshi,Arjun Kumar Karki,15636,True,Sankhuwasabha,1,CPN-UML,2082
+Koshi,Sherdhan Rai,14750,False,Bhojpur,1,CPN-UML,2082
+Koshi,Bhanu Bhakta Dhakal,10682,False,Terhathum,1,CPN-UML,2082
+Koshi,Asmita Thapa,10720,False,Okhaldhunga,1,CPN-UML,2082
+Koshi,Dev Bikram Rai,12714,False,Khotang,1,CPN-UML,2082
+Koshi,Kalpana Rai,8228,False,Solukhumbu,1,CPN-UML,2082
+Koshi,Durga Kumar Thapa,9206,False,Udayapur,1,CPN-UML,2082
+Koshi,Ambar Bahadur Raimajhi,7648,False,Udayapur,2,CPN-UML,2082
+Madhesh,Suman Raj Pyakurel,7652,False,Saptari,1,CPN-UML,2082
+Madhesh,Mohammad Jiaul Rahman,883,False,Saptari,2,CPN-UML,2082
+Madhesh,Tarakant Chaudhary,6715,False,Saptari,3,CPN-UML,2082
+Madhesh,Ganga Prasad Chaudhary,1177,False,Saptari,4,CPN-UML,2082
+Madhesh,Ram Shankar Yadav,7886,False,Siraha,1,CPN-UML,2082
+Madhesh,Nabin Kumar Yadav,6713,False,Siraha,2,CPN-UML,2082
+Madhesh,Lilanath Shrestha,10156,False,Siraha,3,CPN-UML,2082
+Madhesh,Dharmanath Prasad Sah,4227,False,Siraha,4,CPN-UML,2082
+Madhesh,Ramchandra Mandal,9220,False,Dhanusha,1,CPN-UML,2082
+Madhesh,Umashankar Argariya,10153,False,Dhanusha,2,CPN-UML,2082
+Madhesh,Juli Kumari Mahato (Mahaseth),9786,False,Dhanusha,3,CPN-UML,2082
+Madhesh,Raghubir Mahaseth,11529,False,Dhanusha,4,CPN-UML,2082
+Madhesh,Laxmi Mahato Koir,6591,False,Mahottari,1,CPN-UML,2082
+Madhesh,Kasim Nadaf,3524,False,Mahottari,2,CPN-UML,2082
+Madhesh,Manoj Kumar Singh,1516,False,Mahottari,3,CPN-UML,2082
+Madhesh,Neelam Adhikari,6192,False,Mahottari,4,CPN-UML,2082
+Madhesh,Manoj Kumar Devkota,6101,False,Sarlahi,1,CPN-UML,2082
+Madhesh,Nageshowr Sah,1413,False,Sarlahi,2,CPN-UML,2082
+Madhesh,Hari Prasad Upreti,5776,False,Sarlahi,3,CPN-UML,2082
+Madhesh,Amnish Kumar Yadav,9343,False,Sarlahi,4,CPN-UML,2082
+Madhesh,Ajay Kumar Gupta,10693,False,Rautahat,1,CPN-UML,2082
+Madhesh,Mohammad Atiullah,2382,False,Rautahat,2,CPN-UML,2082
+Madhesh,Kundan Prasad Kushwaha,6605,False,Rautahat,3,CPN-UML,2082
+Madhesh,Ramji Sah Sonar,3478,False,Rautahat,4,CPN-UML,2082
+Madhesh,Achyutprasad Mainali,11645,False,Bara,1,CPN-UML,2082
+Madhesh,Balbir Prasad Chaudhari,7213,False,Bara,2,CPN-UML,2082
+Madhesh,Jwalakumari Sah,5271,False,Bara,3,CPN-UML,2082
+Madhesh,Krishnakumar Shrestha,11639,False,Bara,4,CPN-UML,2082
+Madhesh,Pradip Yadav,13030,False,Parsa,1,CPN-UML,2082
+Madhesh,Rima Kumari Yadav,11605,False,Parsa,2,CPN-UML,2082
+Madhesh,Rupesh Kumar Pandey,11914,False,Parsa,3,CPN-UML,2082
+Madhesh,Jalim Miya Mansuri,12145,False,Parsa,4,CPN-UML,2082
+Bagmati,Pradip Kumar Katuwal Chhetri (K.C),15859,False,Sindhuli,1,CPN-UML,2082
+Bagmati,Manoj Jung Thapa,11606,False,Sindhuli,2,CPN-UML,2082
+Bagmati,Madhav Prasad Dhungel,17609,False,Ramechhap,1,CPN-UML,2082
+Bagmati,Parbat Gurung,17449,False,Dolakha,1,CPN-UML,2082
+Bagmati,Saresh Nepal,11961,False,Sindhupalchok,1,CPN-UML,2082
+Bagmati,Sher Bahadur Tamang,15926,False,Sindhupalchok,2,CPN-UML,2082
+Bagmati,Ami Tamang,13814,False,Kavrepalanchok,1,CPN-UML,2082
+Bagmati,Ashok Kumar Byanju Shrestha,13940,False,Kavrepalanchok,2,CPN-UML,2082
+Bagmati,Chet Nath Sanjel,6546,False,Lalitpur,1,CPN-UML,2082
+Bagmati,Prem Bahadur Maharjan,4536,False,Lalitpur,2,CPN-UML,2082
+Bagmati,Sandan Thapa Magar,3297,False,Lalitpur,3,CPN-UML,2082
+Bagmati,Som Prasad Mishra,3721,False,Bhaktapur,1,CPN-UML,2082
+Bagmati,Mahesh Basnet,10996,False,Bhaktapur,2,CPN-UML,2082
+Bagmati,Mohan Raj Regmi,1618,False,Kathmandu,1,CPN-UML,2082
+Bagmati,Maniram Phuyal,4759,False,Kathmandu,2,CPN-UML,2082
+Bagmati,Rameshwar Phuyal,3816,False,Kathmandu,3,CPN-UML,2082
+Bagmati,Rajan Bhattarai,5733,False,Kathmandu,4,CPN-UML,2082
+Bagmati,Ishwar Pokharel,4701,False,Kathmandu,5,CPN-UML,2082
+Bagmati,Aman Kumar Maskey,4373,False,Kathmandu,6,CPN-UML,2082
+Bagmati,Prakash Shrestha,3544,False,Kathmandu,7,CPN-UML,2082
+Bagmati,Rajesh Shakya,1328,False,Kathmandu,8,CPN-UML,2082
+Bagmati,Ajay Kranti Shakya,4580,False,Kathmandu,9,CPN-UML,2082
+Bagmati,Binod Shrestha,4864,False,Kathmandu,10,CPN-UML,2082
+Bagmati,Badri Mainali,8932,False,Nuwakot,1,CPN-UML,2082
+Bagmati,Keshav Raj Pandey,8285,False,Nuwakot,2,CPN-UML,2082
+Bagmati,Prem Bahadur Tamang,4688,False,Rasuwa,1,CPN-UML,2082
+Bagmati,Bhumi Prasad Tripathi,15032,False,Dhading,1,CPN-UML,2082
+Bagmati,Dhan Bahadur Ghale,10084,False,Dhading,2,CPN-UML,2082
+Bagmati,Rameshwar Rana Magar,12783,False,Makwanpur,1,CPN-UML,2082
+Bagmati,Mahesh Kumar Bartaula,18846,False,Makwanpur,2,CPN-UML,2082
+Bagmati,Dawa Dorje Lama,10899,False,Chitwan,1,CPN-UML,2082
+Bagmati,Ashim Ghimire,6992,False,Chitwan,2,CPN-UML,2082
+Bagmati,Shankar Raj Thapaliya,5004,False,Chitwan,3,CPN-UML,2082
+Gandaki,Ram Chandra Lamichhane,3732,False,Gorkha,1,CPN-UML,2082
+Gandaki,Milan Gurung,3087,False,Gorkha,2,CPN-UML,2082
+Gandaki,Prithvi Subba Gurung,16876,False,Lamjung,1,CPN-UML,2082
+Gandaki,Bhagwati Neupane,5653,False,Tanahun,1,CPN-UML,2082
+Gandaki,Kedar Sigdel,11668,False,Tanahun,2,CPN-UML,2082
+Gandaki,Min Prasad Gurung,16804,False,Syangja,1,CPN-UML,2082
+Gandaki,Khim Bahadur Thapa,14108,False,Syangja,2,CPN-UML,2082
+Gandaki,Bain Bahadur Chhetri (Adhikari),10429,False,Kaski,1,CPN-UML,2082
+Gandaki,Rashmi Acharya,7493,False,Kaski,2,CPN-UML,2082
+Gandaki,Damodar Paudel Bairagi,7906,False,Kaski,3,CPN-UML,2082
+Gandaki,Indra Dhara Dadu Bista,1806,False,Mustang,1,CPN-UML,2082
+Gandaki,Padam Giri,15075,False,Parbat,1,CPN-UML,2082
+Gandaki,Harikrishna Shrestha,7919,False,Myagdi,1,CPN-UML,2082
+Gandaki,Hira Bahadur Khatri,8640,False,Baglung,1,CPN-UML,2082
+Gandaki,Manju Sharma,7864,False,Baglung,2,CPN-UML,2082
+Gandaki,Bhagirath Sapkota,9131,False,Nawalparasi East,1,CPN-UML,2082
+Gandaki,Til Bahadur Mahat Chhetri,15755,False,Nawalparasi East,2,CPN-UML,2082
+Lumbini,Pradip Kumar Gyawali,15181,False,Gulmi,1,CPN-UML,2082
+Lumbini,Gokarnaraj Bista,16406,False,Gulmi,2,CPN-UML,2082
+Lumbini,Narayan Parasad Acharya,16819,False,Palpa,1,CPN-UML,2082
+Lumbini,Thakur Prasad Gaire,10503,False,Palpa,2,CPN-UML,2082
+Lumbini,Dadhiram Neupane,7488,False,Rupandehi,1,CPN-UML,2082
+Lumbini,Bishnu Prasad Paudel,12861,False,Rupandehi,2,CPN-UML,2082
+Lumbini,Basu Dev Ghimire,8275,False,Rupandehi,3,CPN-UML,2082
+Lumbini,Pramod Kumar Yadav,20262,False,Rupandehi,4,CPN-UML,2082
+Lumbini,Khim Lal Bhattarai,13100,False,Rupandehi,5,CPN-UML,2082
+Lumbini,Pitambar Bhusal,22649,False,Arghakhanchi,1,CPN-UML,2082
+Lumbini,Bishram Prasad Chaudhary,7981,False,Kapilvastu,1,CPN-UML,2082
+Lumbini,Drigha Narayan Pandey,7357,False,Kapilvastu,2,CPN-UML,2082
+Lumbini,Birendra Kumar Kanodiya,14763,False,Kapilvastu,3,CPN-UML,2082
+Lumbini,Surya Bahadur Thapa Chhetri,16710,False,Pyuthan,1,CPN-UML,2082
+Lumbini,Gokul Prasad Gharti,9933,False,Rolpa,1,CPN-UML,2082
+Lumbini,Rewatiraman Sharma Ghimire,6825,False,Dang,1,CPN-UML,2082
+Lumbini,Shankar Pokhrael,15287,False,Dang,2,CPN-UML,2082
+Lumbini,Ghanshyam Pandey,12195,False,Dang,3,CPN-UML,2082
+Lumbini,Salik Ram Adhikari,14643,False,Bardiya,1,CPN-UML,2082
+Lumbini,Bimala B.K.,10772,False,Bardiya,2,CPN-UML,2082
+Lumbini,Surya Prasad Dhakal,11095,False,Banke,1,CPN-UML,2082
+Lumbini,Mohammad Ishtiyak Rai,24628,True,Banke,2,CPN-UML,2082
+Lumbini,Suman Malla,19615,False,Banke,3,CPN-UML,2082
+Lumbini,Ram Prasad Pandey,7956,False,Nawalparasi West,1,CPN-UML,2082
+Lumbini,Lekhnath Kharel,4311,False,Nawalparasi West,2,CPN-UML,2082
+Lumbini,Lilamani Gautam,3462,False,Rukum East,1,CPN-UML,2082
+Karnali,Nandaram Devkota,1869,False,Rukum West,1,CPN-UML,2082
+Karnali,Gulav Jung Shah,15373,False,Salyan,1,CPN-UML,2082
+Karnali,Dhruva Kumar Shahi,18890,False,Surkhet,1,CPN-UML,2082
+Karnali,Kulmani Devkota,11511,False,Surkhet,2,CPN-UML,2082
+Karnali,Ravindra Raj Sharma,11796,False,Dailekh,1,CPN-UML,2082
+Karnali,Laxmi Prasad Pokharel,13889,True,Dailekh,2,CPN-UML,2082
+Karnali,Dambar Bahadur Singh,16883,False,Jajarkot,1,CPN-UML,2082
+Karnali,Lank Bahadur Rokaya,5396,False,Dolpa,1,CPN-UML,2082
+Karnali,Dal Fadera,4331,False,Humla,1,CPN-UML,2082
+Karnali,Shree Nagindra Shahi,10352,False,Kalikot,1,CPN-UML,2082
+Karnali,Purna Bahadur Rokaya,6718,False,Mugu,1,CPN-UML,2082
+Karnali,Shanti Lal Mahat,4518,False,Jumla,1,CPN-UML,2082
+Sudurpaschim,Lal Bahadur Thapa,16633,False,Bajura,1,CPN-UML,2082
+Sudurpaschim,Ain Bahadur Mahar,18543,True,Bajhang,1,CPN-UML,2082
+Sudurpaschim,Deepak Bahadur Saud,7389,False,Achham,1,CPN-UML,2082
+Sudurpaschim,Yagya Bahadur Bogati,9518,True,Achham,2,CPN-UML,2082
+Sudurpaschim,Deepak Bahadur Dhami,14110,False,Doti,1,CPN-UML,2082
+Sudurpaschim,Dharika Prasad Neupane,4493,False,Kailali,1,CPN-UML,2082
+Sudurpaschim,Surya Bahadur Thapa,7886,False,Kailali,2,CPN-UML,2082
+Sudurpaschim,Gauri Shankar Chaudhary,4752,False,Kailali,3,CPN-UML,2082
+Sudurpaschim,Lekh Raj Bhatta,9444,False,Kailali,4,CPN-UML,2082
+Sudurpaschim,Yagya Raj Dhungana Upadhyaya,5839,False,Kailali,5,CPN-UML,2082
+Sudurpaschim,Tara Lama Tamang,8088,False,Kanchanpur,1,CPN-UML,2082
+Sudurpaschim,Bachan Bahadur Singh,6418,False,Kanchanpur,2,CPN-UML,2082
+Sudurpaschim,Deepak Prakash Bhatta,7575,False,Kanchanpur,3,CPN-UML,2082
+Sudurpaschim,Chakra Prasad Snehi,2926,False,Dadeldhura,1,CPN-UML,2082
+Sudurpaschim,Damodar Bhandari,17091,False,Baitadi,1,CPN-UML,2082
+Sudurpaschim,Ganesh Singh Thagunna,18891,True,Darchula,1,CPN-UML,2082
+Koshi,Khel Prasad Buda Chhetri,6775,False,Taplejung,1,Nepal Communist Party,2082
+Koshi,Hark Bahadur Nembang,11443,False,Panchthar,1,Nepal Communist Party,2082
+Koshi,Ran Bahadur Rai,7665,False,Illam,1,Nepal Communist Party,2082
+Koshi,Om Bahadur Gurung,1172,False,Illam,2,Nepal Communist Party,2082
+Koshi,Ashesh Ghimire,922,False,Jhapa,1,Nepal Communist Party,2082
+Koshi,Dharmashila Chapagai,1115,False,Jhapa,2,Nepal Communist Party,2082
+Koshi,Dilliram Ghimire,1450,False,Jhapa,3,Nepal Communist Party,2082
+Koshi,Purushottam Chudal,1362,False,Jhapa,4,Nepal Communist Party,2082
+Koshi,Ranjit Tamang,1461,False,Jhapa,5,Nepal Communist Party,2082
+Koshi,Kul Prasad Samba,2224,False,Morang,1,Nepal Communist Party,2082
+Koshi,Chandra Bir Rai,1366,False,Morang,2,Nepal Communist Party,2082
+Koshi,Dr Deuman Sambahamphe,1259,False,Morang,3,Nepal Communist Party,2082
+Koshi,Aman Lal Modi,10762,False,Morang,4,Nepal Communist Party,2082
+Koshi,Shiva Kumar Mandal (Kewat),8614,False,Morang,5,Nepal Communist Party,2082
+Koshi,Opendra Kumar Raya,2092,False,Morang,6,Nepal Communist Party,2082
+Koshi,Suryaa Bahadur Bhattarai,6185,False,Sunsari,1,Nepal Communist Party,2082
+Koshi,Ram Kumari Chaudhary,1816,False,Sunsari,2,Nepal Communist Party,2082
+Koshi,Durgesh Kumar Chaudhary,1551,False,Sunsari,3,Nepal Communist Party,2082
+Koshi,Mohammad Mahfuz Ansari,3432,False,Sunsari,4,Nepal Communist Party,2082
+Koshi,Dharma Raj Paudel,1665,False,Dhankuta,1,Nepal Communist Party,2082
+Koshi,Sarita Thapa,2812,False,Sankhuwasabha,1,Nepal Communist Party,2082
+Koshi,Ajambar Rai Kangman,5728,False,Bhojpur,1,Nepal Communist Party,2082
+Koshi,Randhwaj Limbu,919,False,Terhathum,1,Nepal Communist Party,2082
+Koshi,Ambir Babu Gurung,11296,False,Okhaldhunga,1,Nepal Communist Party,2082
+Koshi,Hari Roka,9443,False,Khotang,1,Nepal Communist Party,2082
+Koshi,Ashim Rai,9414,False,Solukhumbu,1,Nepal Communist Party,2082
+Koshi,Bal Dev Chaudhary,10021,False,Udayapur,1,Nepal Communist Party,2082
+Koshi,Suresh Kumar Rai,5197,False,Udayapur,2,Nepal Communist Party,2082
+Madhesh,Rabindra Chaudhary,1626,False,Saptari,1,Nepal Communist Party,2082
+Madhesh,Suryanath Prasad Yadav,426,False,Saptari,2,Nepal Communist Party,2082
+Madhesh,Arun Kumar Sah,1635,False,Saptari,3,Nepal Communist Party,2082
+Madhesh,Rubi Kumari Karn,1709,False,Saptari,4,Nepal Communist Party,2082
+Madhesh,Ramchandra Yadav,2853,False,Siraha,1,Nepal Communist Party,2082
+Madhesh,Mukti Narayan Singh,3680,False,Siraha,2,Nepal Communist Party,2082
+Madhesh,Bishwanath Sah,9942,False,Siraha,3,Nepal Communist Party,2082
+Madhesh,Ajay Shankar Nayak,7972,False,Siraha,4,Nepal Communist Party,2082
+Madhesh,Matrika Prasad Yadav,10428,True,Dhanusha,1,Nepal Communist Party,2082
+Madhesh,Ram Chandra Jha,8403,False,Dhanusha,2,Nepal Communist Party,2082
+Madhesh,Ramlalit Mandal,709,False,Dhanusha,3,Nepal Communist Party,2082
+Madhesh,Sanjay Kumar Mahato,1336,False,Dhanusha,4,Nepal Communist Party,2082
+Madhesh,Giriraj Mani Pokharel,12624,False,Mahottari,1,Nepal Communist Party,2082
+Madhesh,Lakxman Kuar Yadav,737,False,Mahottari,2,Nepal Communist Party,2082
+Madhesh,Raj Kishor Sah Mehattari Sudi,243,False,Mahottari,3,Nepal Communist Party,2082
+Madhesh,Bharat Prasad Shah,5336,False,Mahottari,4,Nepal Communist Party,2082
+Madhesh,Pramod Sah,5498,False,Sarlahi,1,Nepal Communist Party,2082
+Madhesh,Mahindra Raya Yadav,8523,False,Sarlahi,2,Nepal Communist Party,2082
+Madhesh,Naryan Kaji Shrestha,13338,False,Sarlahi,3,Nepal Communist Party,2082
+Madhesh,Rajnish Raya,1259,False,Sarlahi,4,Nepal Communist Party,2082
+Madhesh,Madhav Kumar Nepal,7669,False,Rautahat,1,Nepal Communist Party,2082
+Madhesh,Kiran Kumar Sah,18442,False,Rautahat,2,Nepal Communist Party,2082
+Madhesh,Punam Devi,3881,False,Rautahat,3,Nepal Communist Party,2082
+Madhesh,Ram Kumar Bhattarai,9778,False,Rautahat,4,Nepal Communist Party,2082
+Madhesh,Santosh Dangal,2878,False,Bara,1,Nepal Communist Party,2082
+Madhesh,Rameshprasad Yadav,544,False,Bara,2,Nepal Communist Party,2082
+Madhesh,Bharatprasad Sah,1751,False,Bara,3,Nepal Communist Party,2082
+Madhesh,Ajay Kushwaha,2067,False,Bara,4,Nepal Communist Party,2082
+Madhesh,Ajay Chaurasiya,537,False,Parsa,1,Nepal Communist Party,2082
+Madhesh,Manoj Kumar Chaudhary,913,False,Parsa,2,Nepal Communist Party,2082
+Madhesh,Chotelal Prasad Yadav,2137,False,Parsa,3,Nepal Communist Party,2082
+Madhesh,Jayprakash Tharu,3113,False,Parsa,4,Nepal Communist Party,2082
+Bagmati,Dekendra Prasad Subedi,4708,False,Sindhuli,1,Nepal Communist Party,2082
+Bagmati,Lekh Nath Dahal,14780,False,Sindhuli,2,Nepal Communist Party,2082
+Bagmati,Shyam Kumar Shrestha,13354,False,Ramechhap,1,Nepal Communist Party,2082
+Bagmati,Bishal Khadka,13065,False,Dolakha,1,Nepal Communist Party,2082
+Bagmati,Madhav Sapkota,17327,False,Sindhupalchok,1,Nepal Communist Party,2082
+Bagmati,Yubraj Dulal,21699,True,Sindhupalchok,2,Nepal Communist Party,2082
+Bagmati,Gin Nath Gautam,14184,False,Kavrepalanchok,1,Nepal Communist Party,2082
+Bagmati,Basundhara Humagain,8107,False,Kavrepalanchok,2,Nepal Communist Party,2082
+Bagmati,Sunil Maharjan,1964,False,Lalitpur,1,Nepal Communist Party,2082
+Bagmati,Rajendra Amatya,1217,False,Lalitpur,2,Nepal Communist Party,2082
+Bagmati,Raj Kaji Maharjan,6022,False,Lalitpur,3,Nepal Communist Party,2082
+Bagmati,Hari Ram Lawaju,1177,False,Bhaktapur,1,Nepal Communist Party,2082
+Bagmati,Ram Prasad Sapkota,1323,False,Bhaktapur,2,Nepal Communist Party,2082
+Bagmati,Menuka Bhandari,315,False,Kathmandu,1,Nepal Communist Party,2082
+Bagmati,Nitesh Paudel,1912,False,Kathmandu,2,Nepal Communist Party,2082
+Bagmati,Niraj Lama,518,False,Kathmandu,3,Nepal Communist Party,2082
+Bagmati,Indra Kumar Bhusal,657,False,Kathmandu,4,Nepal Communist Party,2082
+Bagmati,Kalpana Sharma,574,False,Kathmandu,5,Nepal Communist Party,2082
+Bagmati,Hem Lal Sharma,1084,False,Kathmandu,6,Nepal Communist Party,2082
+Bagmati,Basanta Prasad Manandhar,3667,False,Kathmandu,7,Nepal Communist Party,2082
+Bagmati,Suman Shayami,3217,False,Kathmandu,8,Nepal Communist Party,2082
+Bagmati,Radha Krishna Maharjan,1328,False,Kathmandu,9,Nepal Communist Party,2082
+Bagmati,Rupa Maharjan (Shrestha),2648,False,Kathmandu,10,Nepal Communist Party,2082
+Bagmati,Hit Bahadur Tamang,13377,False,Nuwakot,1,Nepal Communist Party,2082
+Bagmati,Hiranath Khatiwada,6720,False,Nuwakot,2,Nepal Communist Party,2082
+Bagmati,Madhav Prasad Lamichhane,953,False,Rasuwa,1,Nepal Communist Party,2082
+Bagmati,Rajendra Prasad Pandey,14709,False,Dhading,1,Nepal Communist Party,2082
+Bagmati,Ram Bahadur Bhandari,9036,False,Dhading,2,Nepal Communist Party,2082
+Bagmati,Bijay Gautam,10788,False,Makwanpur,1,Nepal Communist Party,2082
+Bagmati,labh Sher Bista,12492,False,Makwanpur,2,Nepal Communist Party,2082
+Bagmati,Krishna Raj Panta,4081,False,Chitwan,1,Nepal Communist Party,2082
+Bagmati,Pratap Gurung,4969,False,Chitwan,2,Nepal Communist Party,2082
+Bagmati,Renu Dahal,20615,False,Chitwan,3,Nepal Communist Party,2082
+Gandaki,Hari Raj Adhikari,11124,False,Gorkha,1,Nepal Communist Party,2082
+Gandaki,Lekhnath Neupane,11073,False,Gorkha,2,Nepal Communist Party,2082
+Gandaki,Hari Jung Tamang,3371,False,Lamjung,1,Nepal Communist Party,2082
+Gandaki,Bidya Nath Dhakal,2352,False,Tanahun,1,Nepal Communist Party,2082
+Gandaki,Som Bahadur Thapa,1953,False,Tanahun,2,Nepal Communist Party,2082
+Gandaki,Sailendra Ghimire,1552,False,Syangja,1,Nepal Communist Party,2082
+Gandaki,Padam Bahadur B.K.,848,False,Syangja,2,Nepal Communist Party,2082
+Gandaki,Rajkaji Gurung,2479,False,Kaski,1,Nepal Communist Party,2082
+Gandaki,Hem Bahadur Thapa Parajuli,1276,False,Kaski,2,Nepal Communist Party,2082
+Gandaki,Gopal Giri,1456,False,Kaski,3,Nepal Communist Party,2082
+Gandaki,Yashoda Gurung (Subedi),454,False,Manang,1,Nepal Communist Party,2082
+Gandaki,Ngutuk Gurung,151,False,Mustang,1,Nepal Communist Party,2082
+Gandaki,Manhari Sharma,4557,False,Parbat,1,Nepal Communist Party,2082
+Gandaki,Arjun Bahadur Thapa,3529,False,Myagdi,1,Nepal Communist Party,2082
+Gandaki,Gyanmanath Gaire,10709,False,Baglung,2,Nepal Communist Party,2082
+Gandaki,Lok Prasad Bhurtel,1245,False,Nawalparasi East,1,Nepal Communist Party,2082
+Gandaki,Ganesh Man Mahato,1538,False,Nawalparasi East,2,Nepal Communist Party,2082
+Lumbini,Sudarsan Baral,3167,False,Gulmi,1,Nepal Communist Party,2082
+Lumbini,Shreeram  Mahat,3079,False,Gulmi,2,Nepal Communist Party,2082
+Lumbini,Hum Bahadur Sunari Magar,951,False,Palpa,1,Nepal Communist Party,2082
+Lumbini,Som Prasad Pandeya,5288,False,Palpa,2,Nepal Communist Party,2082
+Lumbini,Ghana Shyam Yadav Ahir,0,False,Rupandehi,1,Nepal Communist Party,2082
+Lumbini,Shubhash Pandey,1409,False,Rupandehi,2,Nepal Communist Party,2082
+Lumbini,Faiz Ahmad Kha,2594,False,Rupandehi,3,Nepal Communist Party,2082
+Lumbini,Babu Lal Yadav,440,False,Rupandehi,4,Nepal Communist Party,2082
+Lumbini,Muhammad Wakil Musalman,6176,False,Rupandehi,5,Nepal Communist Party,2082
+Lumbini,Ram Bahadur Chauhhan,3847,False,Arghakhanchi,1,Nepal Communist Party,2082
+Lumbini,Krishna Bahadur Kunwar,4616,False,Kapilvastu,1,Nepal Communist Party,2082
+Lumbini,Brijesh Kumar Gupta,20482,False,Kapilvastu,2,Nepal Communist Party,2082
+Lumbini,Ehsan Ahmad Khan,3808,False,Kapilvastu,3,Nepal Communist Party,2082
+Lumbini,Krishna Dhwoj Khadka,9074,False,Pyuthan,1,Nepal Communist Party,2082
+Lumbini,Barshman Pun,27460,True,Rolpa,1,Nepal Communist Party,2082
+Lumbini,Metmani Chaudhary,4965,False,Dang,1,Nepal Communist Party,2082
+Lumbini,Nirmal Acharya,7083,False,Dang,2,Nepal Communist Party,2082
+Lumbini,Dhan Bahadur Maski,9328,False,Dang,3,Nepal Communist Party,2082
+Lumbini,Bishnu Prasad Chaudhary,9285,False,Bardiya,1,Nepal Communist Party,2082
+Lumbini,Suresh Pantha,19180,False,Bardiya,2,Nepal Communist Party,2082
+Lumbini,Narendra Prasad Pandey,6020,False,Banke,1,Nepal Communist Party,2082
+Lumbini,Dipendra Bista,1456,False,Banke,2,Nepal Communist Party,2082
+Lumbini,Deepak Kumar Gauri Magar,4015,False,Banke,3,Nepal Communist Party,2082
+Lumbini,Sindhu Jalesa Budhathoki,1056,False,Nawalparasi West,1,Nepal Communist Party,2082
+Lumbini,Devendra Paudel,1838,False,Nawalparasi West,2,Nepal Communist Party,2082
+Lumbini,Pushpa Kamal Dahal,10240,True,Rukum East,1,Nepal Communist Party,2082
+Karnali,Gopal Sharma,21609,True,Rukum West,1,Nepal Communist Party,2082
+Karnali,Ramesh Kumar Malla,23189,True,Salyan,1,Nepal Communist Party,2082
+Karnali,Jit Bahadur Rana,2828,False,Surkhet,1,Nepal Communist Party,2082
+Karnali,Jhak Bahadur Malla,4166,False,Surkhet,2,Nepal Communist Party,2082
+Karnali,Ammar Bahadur Thapa,4256,False,Dailekh,1,Nepal Communist Party,2082
+Karnali,Yogendra Bahadur Shahi,3851,False,Dailekh,2,Nepal Communist Party,2082
+Karnali,Shakti Bahadur Basnet,17407,False,Jajarkot,1,Nepal Communist Party,2082
+Karnali,Dhan Bahadur Budha,6802,True,Dolpa,1,Nepal Communist Party,2082
+Karnali,Dipendra Rokaya,7243,False,Humla,1,Nepal Communist Party,2082
+Karnali,Mahendra Bahadur Shahi,11338,True,Kalikot,1,Nepal Communist Party,2082
+Karnali,Chandra Bahadur Shahi,5558,False,Mugu,1,Nepal Communist Party,2082
+Karnali,Naresh Bhandari,11635,False,Jumla,1,Nepal Communist Party,2082
+Sudurpaschim,Prakash Bahadur Shah,3428,False,Bajura,1,Nepal Communist Party,2082
+Sudurpaschim,Min Bahadur Kunwar,9757,False,Bajhang,1,Nepal Communist Party,2082
+Sudurpaschim,Bhim Bahadur Rawal,10233,False,Achham,1,Nepal Communist Party,2082
+Sudurpaschim,Bal Bahadur Kunwar,6493,False,Achham,2,Nepal Communist Party,2082
+Sudurpaschim,Trilochan Bhatta,5413,False,Doti,1,Nepal Communist Party,2082
+Sudurpaschim,Ramlal Dagaura Tharu,8392,False,Kailali,1,Nepal Communist Party,2082
+Sudurpaschim,Nanda Bahadur Saud,4369,False,Kailali,2,Nepal Communist Party,2082
+Sudurpaschim,Birman Chaudhary,11983,False,Kailali,3,Nepal Communist Party,2082
+Sudurpaschim,Hari Ram Chaudhary,5609,False,Kailali,4,Nepal Communist Party,2082
+Sudurpaschim,Prem Bahadur Ale,7876,False,Kailali,5,Nepal Communist Party,2082
+Sudurpaschim,Bina Magar,11110,False,Kanchanpur,1,Nepal Communist Party,2082
+Sudurpaschim,Madhav Prasad Panta,6337,False,Kanchanpur,2,Nepal Communist Party,2082
+Sudurpaschim,Man Bahadur Sunar,4284,False,Kanchanpur,3,Nepal Communist Party,2082
+Sudurpaschim,Man Singh Mal,6834,False,Dadeldhura,1,Nepal Communist Party,2082
+Sudurpaschim,Pramanand Bhatta,6965,False,Baitadi,1,Nepal Communist Party,2082
+Sudurpaschim,Lakshman Datt Joshi,3065,False,Darchula,1,Nepal Communist Party,2082
+Koshi,Santosh Rai,5209,False,Taplejung,1,Shram Sanskriti Party,2082
+Koshi,Hasta Raj Sherma,14734,False,Panchthar,1,Shram Sanskriti Party,2082
+Koshi,Binod Nembang Limbu,13632,False,Illam,1,Shram Sanskriti Party,2082
+Koshi,Sudeep Rai,14400,False,Illam,2,Shram Sanskriti Party,2082
+Koshi,Kevalram Rai,10004,False,Jhapa,1,Shram Sanskriti Party,2082
+Koshi,Keshav Kumar Bhandari,7291,False,Jhapa,2,Shram Sanskriti Party,2082
+Koshi,Dipak Timsina,7339,False,Jhapa,3,Shram Sanskriti Party,2082
+Koshi,Amrita Devi Rai,7161,False,Jhapa,4,Shram Sanskriti Party,2082
+Koshi,Samir Tamang,9233,False,Jhapa,5,Shram Sanskriti Party,2082
+Koshi,Shanti Pakhrin Lama,17522,False,Morang,1,Shram Sanskriti Party,2082
+Koshi,Abuho Rairah,1822,False,Morang,2,Shram Sanskriti Party,2082
+Koshi,Amir Magar,16509,False,Morang,3,Shram Sanskriti Party,2082
+Koshi,Krishna Kumar Atal,1001,False,Morang,4,Shram Sanskriti Party,2082
+Koshi,Matrika Paudel,3400,False,Morang,6,Shram Sanskriti Party,2082
+Koshi,Harka Raj Rai,35741,True,Sunsari,1,Shram Sanskriti Party,2082
+Koshi,Chtean Rai,7484,False,Sunsari,2,Shram Sanskriti Party,2082
+Koshi,Ram Prasha Sada,1780,False,Sunsari,3,Shram Sanskriti Party,2082
+Koshi,Bishnu Rana,2763,False,Sunsari,4,Shram Sanskriti Party,2082
+Koshi,San Bahadur Rai,11932,False,Dhankuta,1,Shram Sanskriti Party,2082
+Koshi,Uma Kumari Rai,9857,False,Sankhuwasabha,1,Shram Sanskriti Party,2082
+Koshi,Dhurbaraj Rai,16663,True,Bhojpur,1,Shram Sanskriti Party,2082
+Koshi,Subindra Kumar Limbu,5200,False,Terhathum,1,Shram Sanskriti Party,2082
+Koshi,Uddav Kumar Rai,3858,False,Okhaldhunga,1,Shram Sanskriti Party,2082
+Koshi,Aren Rai,16612,True,Khotang,1,Shram Sanskriti Party,2082
+Koshi,Viyas Rai,3363,False,Solukhumbu,1,Shram Sanskriti Party,2082
+Koshi,Rajesh Kumar Rai,11606,False,Udayapur,1,Shram Sanskriti Party,2082
+Koshi,Balraj Rai,4139,False,Udayapur,2,Shram Sanskriti Party,2082
+Madhesh,Tribhuvan Khang,91,False,Saptari,2,Shram Sanskriti Party,2082
+Madhesh,Jay Narayan Mandal,108,False,Saptari,3,Shram Sanskriti Party,2082
+Madhesh,Dr. Jivcha Thakur,157,False,Siraha,1,Shram Sanskriti Party,2082
+Madhesh,Ganga Ram Thakur,119,False,Siraha,2,Shram Sanskriti Party,2082
+Madhesh,Dip Kumar Lama,239,False,Siraha,3,Shram Sanskriti Party,2082
+Madhesh,Pankaj Kumar Thakur,160,False,Siraha,4,Shram Sanskriti Party,2082
+Madhesh,Sadam Hussain,0,False,Dhanusha,3,Shram Sanskriti Party,2082
+Madhesh,Lila Diyali,867,False,Mahottari,1,Shram Sanskriti Party,2082
+Madhesh,Aalam Kawari,94,False,Mahottari,2,Shram Sanskriti Party,2082
+Madhesh,Mo. Sabir Nuri,57,False,Mahottari,3,Shram Sanskriti Party,2082
+Madhesh,Sumar Hari Adhikari,0,False,Sarlahi,1,Shram Sanskriti Party,2082
+Madhesh,Jamshed Ansari,0,False,Rautahat,3,Shram Sanskriti Party,2082
+Madhesh,Najraj Aryal,188,False,Rautahat,4,Shram Sanskriti Party,2082
+Madhesh,Bhulawankumar Paswan,306,False,Bara,1,Shram Sanskriti Party,2082
+Madhesh,Mumtaj Begam,0,False,Bara,3,Shram Sanskriti Party,2082
+Madhesh,Gopalbahadur Khatri,0,False,Bara,4,Shram Sanskriti Party,2082
+Madhesh,Wasim Shesh,90,False,Parsa,1,Shram Sanskriti Party,2082
+Madhesh,Pundeshowr Prasad Yadav,83,False,Parsa,2,Shram Sanskriti Party,2082
+Madhesh,Bishnu Lopchan,251,False,Parsa,4,Shram Sanskriti Party,2082
+Bagmati,Nim Bahadur Moktan,2596,False,Sindhuli,1,Shram Sanskriti Party,2082
+Bagmati,Indra Bahadur B.K,0,False,Sindhuli,2,Shram Sanskriti Party,2082
+Bagmati,Dhal Bahadur Khapangi Magar,1336,False,Ramechhap,1,Shram Sanskriti Party,2082
+Bagmati,Hep Bahadur Thami,381,False,Dolakha,1,Shram Sanskriti Party,2082
+Bagmati,Phurba Tamang,177,False,Sindhupalchok,1,Shram Sanskriti Party,2082
+Bagmati,Bhanu Shrestha,125,False,Sindhupalchok,2,Shram Sanskriti Party,2082
+Bagmati,Dhiraj Lama,287,False,Kavrepalanchok,1,Shram Sanskriti Party,2082
+Bagmati,Tanka Bahadur Lama,383,False,Kavrepalanchok,2,Shram Sanskriti Party,2082
+Bagmati,Gautam Thapa,122,False,Lalitpur,1,Shram Sanskriti Party,2082
+Bagmati,Saroj Rai,608,False,Lalitpur,2,Shram Sanskriti Party,2082
+Bagmati,Ritubartan Rai,1472,False,Lalitpur,3,Shram Sanskriti Party,2082
+Bagmati,Bishnu Hari Nhisutu,290,False,Bhaktapur,1,Shram Sanskriti Party,2082
+Bagmati,Arjun Bashu,665,False,Bhaktapur,2,Shram Sanskriti Party,2082
+Bagmati,Samir Lama Tamang,0,False,Kathmandu,1,Shram Sanskriti Party,2082
+Bagmati,Mukunda Karki,0,False,Kathmandu,2,Shram Sanskriti Party,2082
+Bagmati,Subash Ghising,347,False,Kathmandu,3,Shram Sanskriti Party,2082
+Bagmati,Barun Amatya,756,False,Kathmandu,4,Shram Sanskriti Party,2082
+Bagmati,Amit Thapa,769,False,Kathmandu,5,Shram Sanskriti Party,2082
+Bagmati,Labali Thapa,418,False,Kathmandu,6,Shram Sanskriti Party,2082
+Bagmati,Maniram Bahadur Pradhan,446,False,Kathmandu,7,Shram Sanskriti Party,2082
+Bagmati,Shiva Sundar Karmacharya,0,False,Kathmandu,8,Shram Sanskriti Party,2082
+Bagmati,Balram Shrestha,168,False,Kathmandu,9,Shram Sanskriti Party,2082
+Bagmati,Dhan Bahadur Shrestha,458,False,Kathmandu,10,Shram Sanskriti Party,2082
+Bagmati,Dawana Fenju Lama Tamang,288,False,Nuwakot,1,Shram Sanskriti Party,2082
+Bagmati,Binod Kumar Tamang,396,False,Nuwakot,2,Shram Sanskriti Party,2082
+Bagmati,Pralad Silwal,147,False,Dhading,1,Shram Sanskriti Party,2082
+Bagmati,Tashi Lama Tamang,0,False,Dhading,2,Shram Sanskriti Party,2082
+Bagmati,Bidya Shrestha Maharjan,1024,False,Makwanpur,1,Shram Sanskriti Party,2082
+Bagmati,Yunesh Lama Sintan,932,False,Makwanpur,2,Shram Sanskriti Party,2082
+Bagmati,Anil Tamang,1165,False,Chitwan,1,Shram Sanskriti Party,2082
+Bagmati,Milan Thapa Magar,751,False,Chitwan,2,Shram Sanskriti Party,2082
+Bagmati,Tojman Gurung,650,False,Chitwan,3,Shram Sanskriti Party,2082
+Gandaki,Koshalal Gurung,565,False,Lamjung,1,Shram Sanskriti Party,2082
+Gandaki,Kashiram Gurung,522,False,Tanahun,1,Shram Sanskriti Party,2082
+Gandaki,Piran Gurung,489,False,Syangja,1,Shram Sanskriti Party,2082
+Gandaki,Bil Bahadur Tamang Lama,1141,False,Kaski,1,Shram Sanskriti Party,2082
+Gandaki,Hit Kaji Gurung,586,False,Kaski,3,Shram Sanskriti Party,2082
+Gandaki,Binod Rana,100,False,Myagdi,1,Shram Sanskriti Party,2082
+Gandaki,Lal Bahadur Gharti,0,False,Baglung,1,Shram Sanskriti Party,2082
+Gandaki,Hark Bahadur Pun,0,False,Baglung,2,Shram Sanskriti Party,2082
+Gandaki,Bhim Chandra Gurung,1702,False,Nawalparasi East,1,Shram Sanskriti Party,2082
+Gandaki,Kamal Chapagain,1164,False,Nawalparasi East,2,Shram Sanskriti Party,2082
+Lumbini,Chhabilal Gurung,0,False,Rupandehi,1,Shram Sanskriti Party,2082
+Lumbini,Bhim Bahadur Gautam,1336,False,Rupandehi,2,Shram Sanskriti Party,2082
+Lumbini,Juthe Damai,0,False,Rupandehi,4,Shram Sanskriti Party,2082
+Lumbini,Shivlal Bishwakarma,0,False,Rupandehi,5,Shram Sanskriti Party,2082
+Lumbini,Daroga Prasad Kurmi,439,False,Kapilvastu,1,Shram Sanskriti Party,2082
+Lumbini,Govind Giri,594,False,Pyuthan,1,Shram Sanskriti Party,2082
+Lumbini,Top Bahadur Mahtara,227,False,Dang,3,Shram Sanskriti Party,2082
+Lumbini,Dhan Bahadur B.K.,336,False,Bardiya,1,Shram Sanskriti Party,2082
+Lumbini,Man Bahadur Baigar,390,False,Bardiya,2,Shram Sanskriti Party,2082
+Lumbini,Bharat Nidhi Tiwari,463,False,Banke,1,Shram Sanskriti Party,2082
+Lumbini,Ram Charan Chaudhary,136,False,Banke,2,Shram Sanskriti Party,2082
+Lumbini,Omkar Thapa Magar,339,False,Banke,3,Shram Sanskriti Party,2082
+Lumbini,Ramchandra Chaudhary Tharu,586,False,Nawalparasi West,1,Shram Sanskriti Party,2082
+Karnali,Dhan Bahadur Budhamagar,150,False,Salyan,1,Shram Sanskriti Party,2082
+Karnali,Bir Bahadur Rana,595,False,Surkhet,1,Shram Sanskriti Party,2082
+Karnali,Rajendra Ramjali,1470,False,Surkhet,2,Shram Sanskriti Party,2082
+Sudurpaschim,Bimal Kumar Dagaura,797,False,Kailali,1,Shram Sanskriti Party,2082
+Sudurpaschim,Bhim Bahadur Thapa Magar,379,False,Kailali,4,Shram Sanskriti Party,2082
+Sudurpaschim,Ganga Datt Joshi,224,False,Kanchanpur,3,Shram Sanskriti Party,2082
+Sudurpaschim,Mahendra Pun Magar,260,False,Dadeldhura,1,Shram Sanskriti Party,2082
+Sudurpaschim,Gajendra Raj Pandey,78,False,Baitadi,1,Shram Sanskriti Party,2082
+Koshi,Indra Prasad Thapa,182,False,Taplejung,1,Rastriya Prajatantra Party,2082
+Koshi,Tej Kumar Kurumbang,925,False,Panchthar,1,Rastriya Prajatantra Party,2082
+Koshi,Jwala Nepal,577,False,Illam,1,Rastriya Prajatantra Party,2082
+Koshi,Ganesh Prasad Dulal,352,False,Illam,2,Rastriya Prajatantra Party,2082
+Koshi,Hemraj Karki,1612,False,Jhapa,1,Rastriya Prajatantra Party,2082
+Koshi,Bhadra Prasad Nepal,3966,False,Jhapa,2,Rastriya Prajatantra Party,2082
+Koshi,Rajendra Prasad Lingden,17294,False,Jhapa,3,Rastriya Prajatantra Party,2082
+Koshi,Bhakti Prasad Sitaula,2080,False,Jhapa,4,Rastriya Prajatantra Party,2082
+Koshi,Laxmi Prasad Sangroula,1536,False,Jhapa,5,Rastriya Prajatantra Party,2082
+Koshi,Purna Bahadur Waiba Tamang,900,False,Morang,1,Rastriya Prajatantra Party,2082
+Koshi,Kans Raj Rajbanshi,766,False,Morang,2,Rastriya Prajatantra Party,2082
+Koshi,Prem Prasad Subedi,733,False,Morang,3,Rastriya Prajatantra Party,2082
+Koshi,Madhav Prasad Acharya,1163,False,Morang,4,Rastriya Prajatantra Party,2082
+Koshi,Kumod Raya,504,False,Morang,5,Rastriya Prajatantra Party,2082
+Koshi,Savin Niraula,2092,False,Morang,6,Rastriya Prajatantra Party,2082
+Koshi,Uddav Shrestha,1419,False,Sunsari,1,Rastriya Prajatantra Party,2082
+Koshi,Dinesh Kumar Basnet,1287,False,Sunsari,2,Rastriya Prajatantra Party,2082
+Koshi,Ghanshyan Gurung,885,False,Sunsari,3,Rastriya Prajatantra Party,2082
+Koshi,Prem Prasad Bhattarai,821,False,Sunsari,4,Rastriya Prajatantra Party,2082
+Koshi,Bibhatsu Thapa,703,False,Dhankuta,1,Rastriya Prajatantra Party,2082
+Koshi,Padam Bahadur Tamang,199,False,Sankhuwasabha,1,Rastriya Prajatantra Party,2082
+Koshi,Janak Nepal,197,False,Bhojpur,1,Rastriya Prajatantra Party,2082
+Koshi,Hombhakta Limbu (Kurumwang),125,False,Terhathum,1,Rastriya Prajatantra Party,2082
+Koshi,Dika Prasad Bastola,178,False,Okhaldhunga,1,Rastriya Prajatantra Party,2082
+Koshi,Deepak Tamang,477,False,Khotang,1,Rastriya Prajatantra Party,2082
+Koshi,Rajendra Basnet,66,False,Solukhumbu,1,Rastriya Prajatantra Party,2082
+Koshi,Subhash Chandra Khadka,941,False,Udayapur,1,Rastriya Prajatantra Party,2082
+Koshi,Bishnu Bahadur Khadka,220,False,Udayapur,2,Rastriya Prajatantra Party,2082
+Madhesh,Satya Jit Kumar Jha,422,False,Saptari,1,Rastriya Prajatantra Party,2082
+Madhesh,Ajay Kumar Das,374,False,Saptari,2,Rastriya Prajatantra Party,2082
+Madhesh,Umdeshowr Prasad Sahu,556,False,Saptari,3,Rastriya Prajatantra Party,2082
+Madhesh,Rup Kumar Neupane,382,False,Saptari,4,Rastriya Prajatantra Party,2082
+Madhesh,Basudev Sah,236,False,Siraha,1,Rastriya Prajatantra Party,2082
+Madhesh,Shyam Kishor Sah Haluwai,168,False,Siraha,2,Rastriya Prajatantra Party,2082
+Madhesh,Dev Dayal Singh,234,False,Siraha,3,Rastriya Prajatantra Party,2082
+Madhesh,Suvendra Kumar Sah,283,False,Siraha,4,Rastriya Prajatantra Party,2082
+Madhesh,Manoj Malla Thakuri,0,False,Dhanusha,1,Rastriya Prajatantra Party,2082
+Madhesh,Maheshwor Mandal,203,False,Dhanusha,2,Rastriya Prajatantra Party,2082
+Madhesh,Hussain Kawari,176,False,Dhanusha,3,Rastriya Prajatantra Party,2082
+Madhesh,Ram Babu Sahu Haluwai,299,False,Dhanusha,4,Rastriya Prajatantra Party,2082
+Madhesh,Hom Prasad Pokharel,475,False,Mahottari,1,Rastriya Prajatantra Party,2082
+Madhesh,Ramlakhan Sah Kanu,132,False,Mahottari,2,Rastriya Prajatantra Party,2082
+Madhesh,Rajeshwar Ray,223,False,Mahottari,3,Rastriya Prajatantra Party,2082
+Madhesh,Sunil Kumar Singh,119,False,Mahottari,4,Rastriya Prajatantra Party,2082
+Madhesh,Surya Narayan Raya Yadav,601,False,Sarlahi,1,Rastriya Prajatantra Party,2082
+Madhesh,Raj Kishor Raya Yadav,131,False,Sarlahi,2,Rastriya Prajatantra Party,2082
+Madhesh,Dholram Barkoti,478,False,Sarlahi,3,Rastriya Prajatantra Party,2082
+Madhesh,Pradip Kumar Jha,0,False,Sarlahi,4,Rastriya Prajatantra Party,2082
+Madhesh,Shree Madan Shah,100,False,Rautahat,1,Rastriya Prajatantra Party,2082
+Madhesh,Rabindra Sah,85,False,Rautahat,2,Rastriya Prajatantra Party,2082
+Madhesh,Sikindra Raya Yadav,108,False,Rautahat,3,Rastriya Prajatantra Party,2082
+Madhesh,Ruplal Raya Yadav,0,False,Rautahat,4,Rastriya Prajatantra Party,2082
+Madhesh,Laxmiprasad Sah Kalwar,749,False,Bara,1,Rastriya Prajatantra Party,2082
+Madhesh,Lalbabuprasad Sah Teli,0,False,Bara,2,Rastriya Prajatantra Party,2082
+Madhesh,Rajendraprasad Jaiswar,319,False,Bara,3,Rastriya Prajatantra Party,2082
+Madhesh,Dilipkumar Sharma Nepal,683,False,Bara,4,Rastriya Prajatantra Party,2082
+Madhesh,Nanda Kishor Prasad Shribastav,1272,False,Parsa,1,Rastriya Prajatantra Party,2082
+Madhesh,Bina Jaiswal,1999,False,Parsa,2,Rastriya Prajatantra Party,2082
+Madhesh,Nabin Kumar Singh,233,False,Parsa,3,Rastriya Prajatantra Party,2082
+Madhesh,Shanta Kumar Joshi,158,False,Parsa,4,Rastriya Prajatantra Party,2082
+Bagmati,Ram Narayan Adhikari,467,False,Sindhuli,1,Rastriya Prajatantra Party,2082
+Bagmati,Mukunda Prasad Gajurel,16,False,Sindhuli,2,Rastriya Prajatantra Party,2082
+Bagmati,Gore Tamang,543,False,Ramechhap,1,Rastriya Prajatantra Party,2082
+Bagmati,Prabin Kumar Thokar Tamang,1010,False,Dolakha,1,Rastriya Prajatantra Party,2082
+Bagmati,Ram Mani Neupane,490,False,Sindhupalchok,1,Rastriya Prajatantra Party,2082
+Bagmati,Gopi Krishna Chaulagain,1681,False,Sindhupalchok,2,Rastriya Prajatantra Party,2082
+Bagmati,Navraj Satyal,699,False,Kavrepalanchok,1,Rastriya Prajatantra Party,2082
+Bagmati,Ranjib Shrestha,997,False,Kavrepalanchok,2,Rastriya Prajatantra Party,2082
+Bagmati,Sajina Karki,357,False,Lalitpur,1,Rastriya Prajatantra Party,2082
+Bagmati,Raghubar Raj Thapa,1760,False,Lalitpur,2,Rastriya Prajatantra Party,2082
+Bagmati,Sabin Kumar Khadka,2037,False,Lalitpur,3,Rastriya Prajatantra Party,2082
+Bagmati,Bharat Bahadur Khadka,2472,False,Bhaktapur,1,Rastriya Prajatantra Party,2082
+Bagmati,Bikram Thapa,1224,False,Bhaktapur,2,Rastriya Prajatantra Party,2082
+Bagmati,Rabindra Mishra,3972,False,Kathmandu,1,Rastriya Prajatantra Party,2082
+Bagmati,Kunti Devi Pokharel (Upadhyay),5210,False,Kathmandu,2,Rastriya Prajatantra Party,2082
+Bagmati,Sundar Ram Bohara,841,False,Kathmandu,3,Rastriya Prajatantra Party,2082
+Bagmati,Surendra Raj Bhandari,2025,False,Kathmandu,4,Rastriya Prajatantra Party,2082
+Bagmati,Kamal Thapa,1922,False,Kathmandu,5,Rastriya Prajatantra Party,2082
+Bagmati,Uddav Raj Bhetuwal,1218,False,Kathmandu,6,Rastriya Prajatantra Party,2082
+Bagmati,Lal Kumar Lama,1381,False,Kathmandu,7,Rastriya Prajatantra Party,2082
+Bagmati,Nabin Shahi,1909,False,Kathmandu,8,Rastriya Prajatantra Party,2082
+Bagmati,Dil Kumar Karki,1457,False,Kathmandu,9,Rastriya Prajatantra Party,2082
+Bagmati,Bal Ram Thapa,2103,False,Kathmandu,10,Rastriya Prajatantra Party,2082
+Bagmati,Bimal Thapa,756,False,Nuwakot,1,Rastriya Prajatantra Party,2082
+Bagmati,Jhanak Pyakurel,775,False,Nuwakot,2,Rastriya Prajatantra Party,2082
+Bagmati,Hari Prasad Ghimire,57,False,Rasuwa,1,Rastriya Prajatantra Party,2082
+Bagmati,Geeta Prasad Acharya,425,False,Dhading,1,Rastriya Prajatantra Party,2082
+Bagmati,Suresh Rijal,1504,False,Dhading,2,Rastriya Prajatantra Party,2082
+Bagmati,Dipak Bahadur Singh,4574,False,Makwanpur,1,Rastriya Prajatantra Party,2082
+Bagmati,Ram Bahadur Thokar,785,False,Makwanpur,2,Rastriya Prajatantra Party,2082
+Bagmati,Balram Sharma Khanal,2302,False,Chitwan,1,Rastriya Prajatantra Party,2082
+Bagmati,Jagadishwar Adhikari,644,False,Chitwan,2,Rastriya Prajatantra Party,2082
+Bagmati,Dipak Thapa (Magar),1226,False,Chitwan,3,Rastriya Prajatantra Party,2082
+Gandaki,Kedar Mani Khanal,310,False,Gorkha,1,Rastriya Prajatantra Party,2082
+Gandaki,Kul Bahadur Basnet,292,False,Gorkha,2,Rastriya Prajatantra Party,2082
+Gandaki,Kebindra Jung Gurung,1000,False,Lamjung,1,Rastriya Prajatantra Party,2082
+Gandaki,Ramdatta Joshi,614,False,Tanahun,1,Rastriya Prajatantra Party,2082
+Gandaki,Yam Bahadur Thakuri,1117,False,Tanahun,2,Rastriya Prajatantra Party,2082
+Gandaki,Hukum Bahadur Rana,698,False,Syangja,1,Rastriya Prajatantra Party,2082
+Gandaki,Rabin Pathak,566,False,Syangja,2,Rastriya Prajatantra Party,2082
+Gandaki,Babu Ram Thapa,978,False,Kaski,1,Rastriya Prajatantra Party,2082
+Gandaki,Hem Jung Gurung,1643,False,Kaski,2,Rastriya Prajatantra Party,2082
+Gandaki,Arjun Prasad Khanal,1406,False,Kaski,3,Rastriya Prajatantra Party,2082
+Gandaki,Kamala Lalchan,161,False,Mustang,1,Rastriya Prajatantra Party,2082
+Gandaki,Durga Bahadur Malla,450,False,Parbat,1,Rastriya Prajatantra Party,2082
+Gandaki,Dambhar Bahadur Suvedi,235,False,Myagdi,1,Rastriya Prajatantra Party,2082
+Gandaki,Kalyan Acharya,0,False,Baglung,1,Rastriya Prajatantra Party,2082
+Gandaki,Anchal Shahi,0,False,Baglung,2,Rastriya Prajatantra Party,2082
+Gandaki,Deepak Chandra Bastakoti,1221,False,Nawalparasi East,1,Rastriya Prajatantra Party,2082
+Gandaki,Roon Kumari Mahato,963,False,Nawalparasi East,2,Rastriya Prajatantra Party,2082
+Lumbini,Ajit Kumar Shrestha,95,False,Gulmi,1,Rastriya Prajatantra Party,2082
+Lumbini,Janak Sen,202,False,Gulmi,2,Rastriya Prajatantra Party,2082
+Lumbini,Brihaspati Aryal,202,False,Palpa,1,Rastriya Prajatantra Party,2082
+Lumbini,Dul Bahadur Kunwar,440,False,Palpa,2,Rastriya Prajatantra Party,2082
+Lumbini,Prajwal Bohara,8301,False,Rupandehi,1,Rastriya Prajatantra Party,2082
+Lumbini,Gaurab Bohara,7789,False,Rupandehi,3,Rastriya Prajatantra Party,2082
+Lumbini,Ahmaddin Musalman,926,False,Rupandehi,4,Rastriya Prajatantra Party,2082
+Lumbini,Min Prasad Ghimire,830,False,Rupandehi,5,Rastriya Prajatantra Party,2082
+Lumbini,Jhabindra Phullel,228,False,Arghakhanchi,1,Rastriya Prajatantra Party,2082
+Lumbini,Shatrughan Bilas Singh Kurmi,2127,False,Kapilvastu,1,Rastriya Prajatantra Party,2082
+Lumbini,Bishnu Prasad Bhandari,1181,False,Kapilvastu,2,Rastriya Prajatantra Party,2082
+Lumbini,Prem Shankar Shukla,238,False,Kapilvastu,3,Rastriya Prajatantra Party,2082
+Lumbini,Daneshwar Pandit,415,False,Pyuthan,1,Rastriya Prajatantra Party,2082
+Lumbini,Ammar Bahadur Thapa Chhetri,846,False,Rolpa,1,Rastriya Prajatantra Party,2082
+Lumbini,Vinay B.C.,1292,False,Dang,1,Rastriya Prajatantra Party,2082
+Lumbini,Rishi Kesh Pokhrel,760,False,Dang,2,Rastriya Prajatantra Party,2082
+Lumbini,Damodar Bhandari,1057,False,Dang,3,Rastriya Prajatantra Party,2082
+Lumbini,Bir Bahadur Kami,1344,False,Bardiya,1,Rastriya Prajatantra Party,2082
+Lumbini,Sushil Chaudhary,1127,False,Bardiya,2,Rastriya Prajatantra Party,2082
+Lumbini,Pradeep Kumar Shah,2379,False,Banke,1,Rastriya Prajatantra Party,2082
+Lumbini,Rishi Raj Devkota,1723,False,Banke,2,Rastriya Prajatantra Party,2082
+Lumbini,Tarak Singh Tharu,1912,False,Banke,3,Rastriya Prajatantra Party,2082
+Lumbini,Navanit Kumar Mishra,1593,False,Nawalparasi West,1,Rastriya Prajatantra Party,2082
+Lumbini,Dhubra Bahadur Pradhan,4691,False,Nawalparasi West,2,Rastriya Prajatantra Party,2082
+Lumbini,Roshan Shah,82,False,Rukum East,1,Rastriya Prajatantra Party,2082
+Karnali,Gopal Khadka,228,False,Rukum West,1,Rastriya Prajatantra Party,2082
+Karnali,Anisha Nepali,902,False,Salyan,1,Rastriya Prajatantra Party,2082
+Karnali,Rabi Hamal Thakuri,810,False,Surkhet,1,Rastriya Prajatantra Party,2082
+Karnali,Kabi Ram Puri,1189,False,Surkhet,2,Rastriya Prajatantra Party,2082
+Karnali,Rana Bahadur Singh,598,False,Dailekh,1,Rastriya Prajatantra Party,2082
+Karnali,Babita Kumari Shahi,366,False,Dailekh,2,Rastriya Prajatantra Party,2082
+Karnali,Krishna Bikram Shah,359,False,Jajarkot,1,Rastriya Prajatantra Party,2082
+Karnali,Hari Prasad Dangi,92,False,Dolpa,1,Rastriya Prajatantra Party,2082
+Karnali,Chhakka Budha,124,False,Humla,1,Rastriya Prajatantra Party,2082
+Karnali,Surya Bahadur Shahi,566,False,Kalikot,1,Rastriya Prajatantra Party,2082
+Karnali,Bal Bahadur Malla,22,False,Mugu,1,Rastriya Prajatantra Party,2082
+Karnali,Gyan Bahadur Shahi,14816,True,Jumla,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Keshar Bahadur Shahi,352,False,Bajura,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Bishwa Prakash Jethara,372,False,Bajhang,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Lokendra Bahadur Shahi,102,False,Achham,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Min Bahadur Shahi,167,False,Achham,2,Rastriya Prajatantra Party,2082
+Sudurpaschim,Khadak Bahadur Agrawal,594,False,Doti,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Lokendra Kunwar,2937,False,Kailali,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Bharat Singh B.K. (Buda Chhetri),744,False,Kailali,2,Rastriya Prajatantra Party,2082
+Sudurpaschim,Birendra Bahadur Bam,2347,False,Kailali,3,Rastriya Prajatantra Party,2082
+Sudurpaschim,Kamal Rajwar,10358,False,Kailali,4,Rastriya Prajatantra Party,2082
+Sudurpaschim,Roshan Shahi,1465,False,Kailali,5,Rastriya Prajatantra Party,2082
+Sudurpaschim,Dilli Bahadur Shahi,1560,False,Kanchanpur,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Tirtha Raj Chhauthat,1993,False,Kanchanpur,2,Rastriya Prajatantra Party,2082
+Sudurpaschim,Purna Bahadur Chanda,3902,False,Kanchanpur,3,Rastriya Prajatantra Party,2082
+Sudurpaschim,Govind Kathayat,882,False,Dadeldhura,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Bhupen Bahadur Chanda,2681,False,Baitadi,1,Rastriya Prajatantra Party,2082
+Sudurpaschim,Rajesh Chand,666,False,Darchula,1,Rastriya Prajatantra Party,2082
+Koshi,Surya Gurung,55,False,Taplejung,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Machindra Prasad Begha,247,False,Panchthar,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Rama Meche,43,False,Jhapa,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Karna Lal Rajbanshi,48,False,Jhapa,3,Janata Samjbadi Party-Nepal,2082
+Koshi,Palton Tajpuria,54,False,Jhapa,4,Janata Samjbadi Party-Nepal,2082
+Koshi,Dhiren Subba,42,False,Jhapa,5,Janata Samjbadi Party-Nepal,2082
+Koshi,Binod Kumar Singh Gangai,87,False,Morang,2,Janata Samjbadi Party-Nepal,2082
+Koshi,Majebul Rahaman,18,False,Morang,3,Janata Samjbadi Party-Nepal,2082
+Koshi,Tawarej Akhtar Alam,60,False,Morang,4,Janata Samjbadi Party-Nepal,2082
+Koshi,Raj Kumar Yadav,8747,False,Morang,5,Janata Samjbadi Party-Nepal,2082
+Koshi,Raju Mandal Rajbanshi,72,False,Morang,6,Janata Samjbadi Party-Nepal,2082
+Koshi,Sanjay Rai,50,False,Sunsari,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Ram Chandra Mehata,374,False,Sunsari,2,Janata Samjbadi Party-Nepal,2082
+Koshi,Badri Prashad Yadav,177,False,Sunsari,3,Janata Samjbadi Party-Nepal,2082
+Koshi,Sabita Yadav,486,False,Sunsari,4,Janata Samjbadi Party-Nepal,2082
+Koshi,Ait Raj Limbu,432,False,Dhankuta,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Bharat Kumar Rai (Yakkha),135,False,Sankhuwasabha,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Sunil Chamling,111,False,Khotang,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Lakpa Sherpa,183,False,Solukhumbu,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Shyam Sundar Sardar,2558,False,Saptari,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Umesh Kumar Yadav,14263,False,Saptari,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Upendra Yadav,15239,False,Saptari,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Banvi Singh,10280,False,Saptari,4,Janata Samjbadi Party-Nepal,2082
+Madhesh,Satya Narayan Yadav,2285,False,Siraha,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Sanjiv Kumar Yadav,3087,False,Siraha,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Aseeshwar Yadav,5671,False,Siraha,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Raj Kishor Yadav,3484,False,Siraha,4,Janata Samjbadi Party-Nepal,2082
+Madhesh,Deepak Karki,0,False,Dhanusha,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Pahupati Yadav,3830,False,Dhanusha,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Parmeshwor Sahu Sudi,500,False,Dhanusha,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Krishna Chandra Prasad Sah,516,False,Dhanusha,4,Janata Samjbadi Party-Nepal,2082
+Madhesh,Yog Narayan Mahato,319,False,Mahottari,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Sharat Singh Bhandari,10198,False,Mahottari,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Minakshi Thakur,3946,False,Mahottari,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Surendra Kumar Yadav,8742,False,Mahottari,4,Janata Samjbadi Party-Nepal,2082
+Madhesh,Ram Prakash Chaudhary,3991,False,Sarlahi,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Bharat Chaudhary,0,False,Sarlahi,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Jay Prakash Raya,766,False,Sarlahi,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Rameshowr Raya Yadav,0,False,Sarlahi,4,Janata Samjbadi Party-Nepal,2082
+Madhesh,Yogendra Raya Yadav,6846,False,Rautahat,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Ranashish Raya Yadav,2960,False,Rautahat,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Govinda Chaudhary,11954,False,Rautahat,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Rajkumar Das Tatma,1062,False,Rautahat,4,Janata Samjbadi Party-Nepal,2082
+Madhesh,Rambabuprasad Yadav,2530,False,Bara,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Ramkishorprasad Yadav,14196,False,Bara,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Rambabukumar Yadav,6884,False,Bara,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Sanjusah Kanu,7593,False,Bara,4,Janata Samjbadi Party-Nepal,2082
+Madhesh,Ramnaresh Prasad Yadav,1201,False,Parsa,1,Janata Samjbadi Party-Nepal,2082
+Madhesh,Ashok Kumar Agrawal,2642,False,Parsa,2,Janata Samjbadi Party-Nepal,2082
+Madhesh,Nagendra Prasad Yadav,168,False,Parsa,3,Janata Samjbadi Party-Nepal,2082
+Madhesh,Kripasindhu Prasad,4758,False,Parsa,4,Janata Samjbadi Party-Nepal,2082
+Bagmati,Gopal Nepali,64,False,Dolakha,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Pasang Sherpa,44,False,Sindhupalchok,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Man Bahadur Tamang,71,False,Kavrepalanchok,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Rakam Lama (Tamang),31,False,Kavrepalanchok,2,Janata Samjbadi Party-Nepal,2082
+Bagmati,Mahabir Syangtan Tamang,12,False,Lalitpur,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Rihini Kasti,29,False,Lalitpur,2,Janata Samjbadi Party-Nepal,2082
+Bagmati,Krishna Devi Maharjan,31,False,Lalitpur,3,Janata Samjbadi Party-Nepal,2082
+Bagmati,Shyam Sundar Shilpakar,124,False,Bhaktapur,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Nabin Shrestha,12,False,Bhaktapur,2,Janata Samjbadi Party-Nepal,2082
+Bagmati,Prakash Nayaju,0,False,Kathmandu,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Pranil Dhwaj Karki,11,False,Kathmandu,3,Janata Samjbadi Party-Nepal,2082
+Bagmati,Danindra Joshi,15,False,Kathmandu,5,Janata Samjbadi Party-Nepal,2082
+Bagmati,Babu Ram Lama,8,False,Kathmandu,7,Janata Samjbadi Party-Nepal,2082
+Bagmati,Saroj Raj Baidhya,0,False,Kathmandu,8,Janata Samjbadi Party-Nepal,2082
+Bagmati,Ranbir Chhetri Singh,5,False,Kathmandu,9,Janata Samjbadi Party-Nepal,2082
+Bagmati,Bhagarit  Sah,0,False,Kathmandu,10,Janata Samjbadi Party-Nepal,2082
+Bagmati,Hom Bahadur Rai,24,False,Nuwakot,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Norman Tamang,0,False,Dhading,2,Janata Samjbadi Party-Nepal,2082
+Bagmati,Rupak Lama,24,False,Makwanpur,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Ajay Thakur Hajam,16,False,Chitwan,1,Janata Samjbadi Party-Nepal,2082
+Bagmati,Kaman Singh Chaudhary,21,False,Chitwan,2,Janata Samjbadi Party-Nepal,2082
+Bagmati,Thaman Singh Sunar,7,False,Chitwan,3,Janata Samjbadi Party-Nepal,2082
+Gandaki,Ram Kaji Charmakar,11,False,Kaski,1,Janata Samjbadi Party-Nepal,2082
+Lumbini,Mohammad Aslam Kha,0,False,Rupandehi,1,Janata Samjbadi Party-Nepal,2082
+Lumbini,Dipak Gurung,36,False,Rupandehi,2,Janata Samjbadi Party-Nepal,2082
+Lumbini,Shrinivas Yadav,3,False,Rupandehi,3,Janata Samjbadi Party-Nepal,2082
+Lumbini,Sarbendra Nath Shukla,3410,False,Rupandehi,4,Janata Samjbadi Party-Nepal,2082
+Lumbini,Muhammad Bahid Fakir,49,False,Rupandehi,5,Janata Samjbadi Party-Nepal,2082
+Lumbini,Babbu Singh Yadav,1485,False,Kapilvastu,1,Janata Samjbadi Party-Nepal,2082
+Lumbini,Ram Newas Yadav,81,False,Kapilvastu,2,Janata Samjbadi Party-Nepal,2082
+Lumbini,Bhartalal Chaudhary,81,False,Dang,1,Janata Samjbadi Party-Nepal,2082
+Lumbini,Dhundiraj Thapa,31,False,Dang,2,Janata Samjbadi Party-Nepal,2082
+Lumbini,Shobha Dangi,24,False,Dang,3,Janata Samjbadi Party-Nepal,2082
+Lumbini,Manoj Yadav,394,False,Bardiya,1,Janata Samjbadi Party-Nepal,2082
+Lumbini,Anirudh Arya,91,False,Bardiya,2,Janata Samjbadi Party-Nepal,2082
+Lumbini,Rajendra Kumar Bishwakarma,84,False,Banke,1,Janata Samjbadi Party-Nepal,2082
+Lumbini,Kamaruddin Rai,908,False,Banke,2,Janata Samjbadi Party-Nepal,2082
+Lumbini,Surya Lal Yadav,75,False,Banke,3,Janata Samjbadi Party-Nepal,2082
+Lumbini,Hridayesh Tripathi,7832,False,Nawalparasi West,1,Janata Samjbadi Party-Nepal,2082
+Lumbini,Devendra Yadav,7212,False,Nawalparasi West,2,Janata Samjbadi Party-Nepal,2082
+Karnali,Dhana Singh Sarki,347,False,Surkhet,1,Janata Samjbadi Party-Nepal,2082
+Karnali,Deep Bahadur Nepali,51,False,Surkhet,2,Janata Samjbadi Party-Nepal,2082
+Sudurpaschim,Aan Singh Bhandari,94,False,Baitadi,1,Janata Samjbadi Party-Nepal,2082
+Koshi,Tek Bahadur Subba,2825,False,Panchthar,1,Rastriya Pariwartan Party,2082
+Koshi,Diwas Rai,751,False,Illam,2,Rastriya Pariwartan Party,2082
+Koshi,Sabin Rai,204,False,Jhapa,5,Rastriya Pariwartan Party,2082
+Koshi,Durga Kumari Tamang,291,False,Morang,1,Rastriya Pariwartan Party,2082
+Koshi,Dhan Bahadur Sunuwar,277,False,Morang,2,Rastriya Pariwartan Party,2082
+Koshi,Shalik Ram Rai,221,False,Dhankuta,1,Rastriya Pariwartan Party,2082
+Koshi,Ghanshyam Waling Rai,1352,False,Sankhuwasabha,1,Rastriya Pariwartan Party,2082
+Koshi,Jitendra Rai,812,False,Bhojpur,1,Rastriya Pariwartan Party,2082
+Koshi,Usha Laxmi Tumbahangfe,283,False,Terhathum,1,Rastriya Pariwartan Party,2082
+Koshi,Miresh Rai,947,False,Khotang,1,Rastriya Pariwartan Party,2082
+Koshi,Arun Rai,607,False,Udayapur,2,Rastriya Pariwartan Party,2082
+Madhesh,Sarbendra Khanal,271,False,Bara,4,Rastriya Pariwartan Party,2082
+Bagmati,Santosh Kumar Sunuwar,168,False,Sindhuli,1,Rastriya Pariwartan Party,2082
+Bagmati,Shudarshan Karki,356,False,Dolakha,1,Rastriya Pariwartan Party,2082
+Bagmati,Anup Bohara,203,False,Kathmandu,2,Rastriya Pariwartan Party,2082
+Lumbini,Ranjit Chaudhary,21,False,Dang,1,Rastriya Pariwartan Party,2082
+Lumbini,Shyam Prasad Tharu,146,False,Bardiya,1,Rastriya Pariwartan Party,2082

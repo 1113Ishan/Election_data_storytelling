@@ -1,82 +1,122 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup as bs
+import re
 
 
+def clean_votes(text):
+    """
+    Extract first valid integer from vote string.
+    Handles formats like:
+    '45,680'
+    '45,680\n35,130 (Elected)'
+    ' 45,680 '
+    """
+    if not text:
+        return None
+
+    # take first line only
+    first_line = text.split("\n")[0]
+
+    # remove commas and spaces
+    first_line = first_line.replace(",", "").strip()
+
+    # extract number safely using regex
+    match = re.search(r"\d+", first_line)
+    if match:
+        return int(match.group())
+
+    return None
 
 
 def scrape_party(url, party_name):
 
-    # Create an empty dict for data storage
     data = []
 
-    # Request html
     html = requests.get(url).text
-
-    # Parse using BS
     soup = bs(html, "html.parser")
 
-    # Locate table in the webpage
     table = soup.select_one("div.candidate-list-table")
-    rows = table.find_all("tr")
+    rows = table.find("tbody").find_all("tr")
 
-    # Loop through each row of table
+    bad_rows = 0
+
     for row in rows:
         cols = row.find_all("td")
 
         if len(cols) < 4:
+            bad_rows += 1
             continue
-        
-        province = cols[0].text.strip()
-        candidate = cols[1].text.strip()
-        district = cols[2].text.strip()
 
-        # clean votes to remove comma
-        votes_tag = cols[3].find("p")
-        if votes_tag:
-            raw_votes = votes_tag.text.strip()
-            first_line = raw_votes.split("\n")[0]
-            votes = int(first_line.replace(",", ""))
-        else:
-            votes = None
+        try:
+            province = cols[0].get_text(strip=True)
+            candidate = cols[1].get_text(strip=True)
+            district = cols[2].get_text(strip=True)
 
-        # Winner logic
-        winner_tag = cols[3].find("span")
-        is_winner = True if winner_tag and "Elected" in winner_tag.text else False
+            # extract vote container safely
+            vote_cell = cols[3]
 
-        # add everything into data dict
-        data.append({
-            "province": province,
-            "candidate": candidate,
-            "district": district,
-            "votes": votes,
-            "winner": is_winner
-        })
+            # prefer <p>, fallback to full text
+            p_tag = vote_cell.find("p")
+            if p_tag:
+                votes = clean_votes(p_tag.get_text())
+            else:
+                votes = clean_votes(vote_cell.get_text())
 
-    # Convert to dataframe pandas
+            # winner detection
+            span_tag = vote_cell.find("span")
+            is_winner = False
+            if span_tag and "Elected" in span_tag.get_text():
+                is_winner = True
+
+            data.append({
+                "province": province,
+                "candidate": candidate,
+                "district": district,
+                "votes": votes,
+                "winner": is_winner
+            })
+
+        except Exception:
+            bad_rows += 1
+            continue
+
     df = pd.DataFrame(data)
 
-    # Split disctirct into disctict and constituency
-    df[["district_name", "constituency"]] = df["district"].str.split("-", expand=True) 
-    df["district_name"] = df["district_name"].str.strip() 
-    df["constituency"] = df["constituency"].str.strip().astype(int)
+    # --- FIX district parsing safely ---
+    df[["district_name", "constituency"]] = df["district"].str.split("-", n=1, expand=True)
 
-    # Add party name
+    df["district_name"] = df["district_name"].str.strip()
+    df["constituency"] = df["constituency"].str.strip()
+
+    # remove rows where constituency failed parsing
+    df = df[df["constituency"].notna()]
+
+    df["constituency"] = df["constituency"].astype(int)
+
     df["party"] = party_name
-
-    # drop old columns
-    df = df.drop(columns=["district"])
     df["election_year"] = 2082
+
+    df = df.drop(columns=["district"])
+
+    print(f"{party_name} scraped rows: {len(df)}, bad rows: {bad_rows}")
 
     return df
 
 
+# -------------------------
+# RUN SCRAPER
+# -------------------------
 
 party_urls = {
     'RSP': "https://election.ekantipur.com/party/7?lng=eng",
-    'NC': "https://election.ekantipur.com/party/2?lng=eng",
-    'UML': "https://election.ekantipur.com/party/1?lng=eng",
-    "NCP": "https://election.ekantipur.com/party/9?lng=eng"
+    'Nepali Congress': "https://election.ekantipur.com/party/2?lng=eng",
+    'CPN-UML': "https://election.ekantipur.com/party/1?lng=eng",
+    "Nepal Communist Party": "https://election.ekantipur.com/party/9?lng=eng",
+    "Shram Sanskriti Party": "https://election.ekantipur.com/party/11?lng=eng",
+    "Rastriya Prajatantra Party":"https://election.ekantipur.com/party/3?lng=eng",
+    "Janata Samjbadi Party-Nepal": "https://election.ekantipur.com/party/6?lng=eng",
+    "Rastriya Pariwartan Party":"https://election.ekantipur.com/party/16?lng=eng"
 }
 
 all_dfs = []
@@ -88,3 +128,5 @@ for party, url in party_urls.items():
 final_df = pd.concat(all_dfs, ignore_index=True)
 
 final_df.to_csv("data/2082/election_2082_results.csv", index=False)
+
+print("Final rows:", len(final_df))
