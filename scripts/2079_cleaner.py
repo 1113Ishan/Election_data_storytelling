@@ -1,16 +1,11 @@
 import pandas as pd
 
 
-# -----------------------------
-# 1. Load raw dataset
-# -----------------------------
+
 def load_data(path):
     return pd.read_csv(path, encoding="utf-8")
 
 
-# -----------------------------
-# 2. Keep only needed columns
-# -----------------------------
 def select_columns(df):
     return df[
         [
@@ -23,14 +18,12 @@ def select_columns(df):
             "Remarks",
             "Age",
             "Gender",
-            "SCConstID"   # KEEP THIS
+            "SCConstID"   
         ]
     ].copy()
 
 
-# -----------------------------
-# 3. Clean text
-# -----------------------------
+
 def clean_text(df):
 
     cols = [
@@ -53,9 +46,7 @@ def clean_text(df):
     return df
 
 
-# -----------------------------
-# 4. Clean votes
-# -----------------------------
+
 def clean_votes(df):
 
     df["TotalVoteReceived"] = (
@@ -70,9 +61,6 @@ def clean_votes(df):
     return df
 
 
-# -----------------------------
-# 5. Winner flag
-# -----------------------------
 def create_winner_flag(df):
 
     df["is_winner"] = df["Remarks"].str.lower().str.contains("elected", na=False)
@@ -80,9 +68,7 @@ def create_winner_flag(df):
     return df
 
 
-# -----------------------------
-# 6. Standardize party names
-# -----------------------------
+
 def standardize_party(df):
 
     mapping = {
@@ -116,9 +102,6 @@ def standardize_province(df):
     return df
 
 
-# -----------------------------
-# 7. Clean geography
-# -----------------------------
 def clean_geo(df):
 
     df["DistrictName"] = df["DistrictName"].str.replace("-", " ").str.strip()
@@ -126,10 +109,6 @@ def clean_geo(df):
 
     return df
 
-
-# -----------------------------
-# 8. Handle constituency
-# -----------------------------
 def handle_constituency(df):
 
     df["SCConstID"] = pd.to_numeric(df["SCConstID"], errors="coerce")
@@ -138,9 +117,6 @@ def handle_constituency(df):
     return df
 
 
-# -----------------------------
-# 9. Rename for SQL
-# -----------------------------
 def rename_columns(df):
 
     return df.rename(columns={
@@ -155,9 +131,6 @@ def rename_columns(df):
     })
 
 
-# -----------------------------
-# 10. Final cleanup
-# -----------------------------
 def finalize(df):
 
     df = df.drop(columns=["Remarks"])
@@ -181,9 +154,6 @@ def finalize(df):
     return df
 
 
-# -----------------------------
-# MAIN PIPELINE
-# -----------------------------
 def clean_2079(path):
 
     df = load_data(path)
@@ -200,9 +170,6 @@ def clean_2079(path):
     return df
 
 
-# -----------------------------
-# RUN
-# -----------------------------
 if __name__ == "__main__":
 
     df = clean_2079("data/2079/election_2079_raw.csv")
