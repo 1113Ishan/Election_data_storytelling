@@ -5,13 +5,7 @@ import re
 
 
 def clean_votes(text):
-    """
-    Extract first valid integer from vote string.
-    Handles formats like:
-    '45,680'
-    '45,680\n35,130 (Elected)'
-    ' 45,680 '
-    """
+
     if not text:
         return None
 

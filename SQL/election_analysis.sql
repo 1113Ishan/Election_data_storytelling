@@ -9,6 +9,7 @@ create table elections(
 	election_year smallint
 );
 
+
 alter table elections 
 rename column district_name to district; 
 
@@ -38,7 +39,6 @@ select
 from candidate_rank
 group by constituency, province, district;
 
-select * from winner_and_runnerup;
 	
 create view win_margin_analysis as
 select 
@@ -56,12 +56,6 @@ from winner_and_runnerup;
 alter view win_margin_analysis
 rename column win_margin to win_percentage;
 
-select count(*) from win_margin_analysis;
-
-select count(*) from win_margin_analysis
-where win_percentage < 20;
-
-
 
 create view win_classification as
 select 
@@ -73,14 +67,6 @@ select
 	end as win_status
 	from win_margin_analysis;
 
-select * from win_classification;
-
-select 
-	winner_party as party,
-	win_status,
-	count(*) as seats
-from win_classification
-group by winner_party, win_status;
 
 create view win_status_count as
 select 
@@ -91,8 +77,83 @@ select
 from win_classification
 group by winner_party;
 
-select * from win_status_count;
-	
-	
-	
-	
+
+create view win_distribution_province as
+select
+	a.province, 
+	a.party,
+	b.total_available_seats,
+	a.total_wins
+from(
+	select
+	province,
+	party,
+	count(*) as total_wins
+from candidate_rank
+where vote_rank = 1
+group by province, party
+) a
+join(
+	select 
+	province, 
+	count(*) as total_available_seats
+from (
+	select distinct province, district, constituency
+	from elections
+) seats
+group by province
+) b
+on a.province = b.province
+order by province;
+
+
+CREATE TABLE fact_winners AS
+SELECT
+    province,
+    district,
+    constituency,
+    candidate AS winner_candidate,
+    party AS winner_party,
+    votes AS winner_votes
+FROM candidate_rank
+WHERE vote_rank = 1;
+
+CREATE TABLE fact_runnerups AS
+SELECT
+    province,
+    district,
+    constituency,
+    candidate AS runnerup_candidate,
+    party AS runnerup_party,
+    votes AS runnerup_votes
+FROM candidate_rank
+WHERE vote_rank = 2;
+
+CREATE TABLE fact_constituency_results AS
+SELECT
+    w.province,
+    w.district,
+    w.constituency,
+    w.winner_candidate,
+    w.winner_party,
+    w.winner_votes,
+    r.runnerup_candidate,
+    r.runnerup_party,
+    r.runnerup_votes,
+    (w.winner_votes - r.runnerup_votes) AS vote_difference,
+    ((w.winner_votes::decimal - r.runnerup_votes::decimal)
+     / NULLIF((w.winner_votes + r.runnerup_votes), 0)) * 100 AS win_percentage
+FROM fact_winners w
+JOIN fact_runnerups r
+ON w.province = r.province
+AND w.district = r.district
+AND w.constituency = r.constituency;
+
+CREATE TABLE fact_province_summary AS
+SELECT
+    province,
+    winner_party AS party,
+    COUNT(*) AS seats_won
+FROM fact_winners
+GROUP BY province, winner_party;
+
