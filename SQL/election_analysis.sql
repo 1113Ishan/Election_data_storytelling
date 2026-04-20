@@ -13,6 +13,8 @@ create table elections(
 alter table elections 
 rename column district_name to district; 
 
+select * from elections;
+
 create view candidate_rank as
 select
 	province, 
@@ -24,6 +26,9 @@ select
 	winner,
 	rank () over(partition by province, district, constituency order by votes desc) as vote_rank
 from elections;
+
+select * from candidate_rank;
+
 
 create view winner_and_runnerup as
 select 
@@ -39,6 +44,7 @@ select
 from candidate_rank
 group by constituency, province, district;
 
+select * from winner_and_runnerup;
 	
 create view win_margin_analysis as
 select 
@@ -52,6 +58,9 @@ select
 	(winner_votes - runner_up_votes) as vote_difference,
 	(((winner_votes::decimal) - (runner_up_votes::decimal)) / (winner_votes + runner_up_votes) * 100) as win_margin
 from winner_and_runnerup;	
+
+
+select * from win_margin_analysis;
 
 alter view win_margin_analysis
 rename column win_margin to win_percentage;
@@ -68,6 +77,7 @@ select
 	from win_margin_analysis;
 
 
+
 create view win_status_count as
 select 
 	winner_party as party,
@@ -76,6 +86,7 @@ select
 	count(case when win_status = 'Safe win' then 1 end) as Safe_wins
 from win_classification
 group by winner_party;
+
 
 
 create view win_distribution_province as
@@ -107,6 +118,7 @@ on a.province = b.province
 order by province;
 
 
+
 CREATE TABLE fact_winners AS
 SELECT
     province,
@@ -118,6 +130,7 @@ SELECT
 FROM candidate_rank
 WHERE vote_rank = 1;
 
+
 CREATE TABLE fact_runnerups AS
 SELECT
     province,
@@ -128,6 +141,7 @@ SELECT
     votes AS runnerup_votes
 FROM candidate_rank
 WHERE vote_rank = 2;
+
 
 CREATE TABLE fact_constituency_results AS
 SELECT
@@ -148,6 +162,8 @@ JOIN fact_runnerups r
 ON w.province = r.province
 AND w.district = r.district
 AND w.constituency = r.constituency;
+
+
 
 CREATE TABLE fact_province_summary AS
 SELECT

@@ -110,7 +110,8 @@ party_urls = {
     "Shram Sanskriti Party": "https://election.ekantipur.com/party/11?lng=eng",
     "Rastriya Prajatantra Party":"https://election.ekantipur.com/party/3?lng=eng",
     "Janata Samjbadi Party-Nepal": "https://election.ekantipur.com/party/6?lng=eng",
-    "Rastriya Pariwartan Party":"https://election.ekantipur.com/party/16?lng=eng"
+    "Rastriya Pariwartan Party":"https://election.ekantipur.com/party/16?lng=eng",
+    "Independent": "https://election.ekantipur.com/party/19?lng=eng"
 }
 
 all_dfs = []
