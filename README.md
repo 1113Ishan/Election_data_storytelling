@@ -53,26 +53,6 @@ The project follows a layered transformation approach:
    Calculates seats per party per province.
 
 Ensures accurate seat counting (1 constituency = 1 seat).
-
-Power BI Model
------------------
-
-### Fact Tables
-
-*   fact\_winners → winners only
-    
-*   fact\_constituency\_results → full dataset
-    
-
-### Derived Table
-
-*   province\_party
-    
-    *   province, party
-        
-    *   seats won, total seats
-        
-    *   seat share %
         
 Dashboard
 ------------
